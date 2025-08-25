@@ -129,3 +129,44 @@
 [25Aug2025 19:19:34.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
 [25Aug2025 19:20:49.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was slain by Spider
 [25Aug2025 19:20:49.929] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[25Aug2025 19:22:25.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver tried to swim in lava
+[25Aug2025 19:22:25.329] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[25Aug2025 19:23:32.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver was kicked for floating too long!
+[25Aug2025 19:23:32.083] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Flying is not enabled on this server
+[25Aug2025 19:23:32.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
+[25Aug2025 19:23:39.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:52741] logged in with entity id 7083 at (58.08872127850553, 61.411606984834044, -356.76575292908933)
+[25Aug2025 19:23:39.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
+[25Aug2025 19:23:46.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver was kicked for floating too long!
+[25Aug2025 19:23:46.824] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Flying is not enabled on this server
+[25Aug2025 19:23:46.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
+[25Aug2025 19:24:17.121] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d3dcac8[id=<null>,name=caver,properties={},legacy=false] (/127.72.158.84:48389) lost connection: Disconnected
+[25Aug2025 19:24:29.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:60137] logged in with entity id 7309 at (61.073904432954485, 46.5129343336439, -354.9364802789263)
+[25Aug2025 19:24:29.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
+[25Aug2025 19:25:14.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [A Strange Grave Dust]
+[25Aug2025 19:29:17.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [Acquire Hardware]
+[25Aug2025 19:29:37.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Chest Slayer]
+[25Aug2025 19:29:37.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Amateur Archaeologist]
+[25Aug2025 19:29:52.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [Hot Stuff]
+[25Aug2025 19:30:20.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [Isn't It Iron Pick]
+[25Aug2025 19:30:50.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [Suit Up]
+[25Aug2025 19:31:53.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [Diamonds!]
+[25Aug2025 19:32:11.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was shot by Skeleton
+[25Aug2025 19:32:11.236] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[25Aug2025 19:33:57.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver was kicked for floating too long!
+[25Aug2025 19:33:57.727] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Flying is not enabled on this server
+[25Aug2025 19:33:57.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
+[25Aug2025 19:34:11.730] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:58335] logged in with entity id 10629 at (60.17778592303368, 64.16829455792568, -358.1338293708401)
+[25Aug2025 19:34:11.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
+[25Aug2025 19:34:18.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver was kicked for floating too long!
+[25Aug2025 19:34:18.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Flying is not enabled on this server
+[25Aug2025 19:34:18.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
+[25Aug2025 19:34:26.431] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:58281] logged in with entity id 10925 at (65.21965606397802, 49.26962190673554, -359.23225610851466)
+[25Aug2025 19:34:26.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
+[25Aug2025 19:35:37.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was shot by Skeleton
+[25Aug2025 19:35:37.633] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[25Aug2025 19:36:54.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver was kicked for floating too long!
+[25Aug2025 19:36:54.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Flying is not enabled on this server
+[25Aug2025 19:36:54.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
+[25Aug2025 19:36:59.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Funeral Theft]
+[25Aug2025 19:37:04.579] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:57393] logged in with entity id 13630 at (63.24437731563108, 62.110715308421774, -355.3048685019757)
+[25Aug2025 19:37:04.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
