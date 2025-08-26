@@ -16,6 +16,7 @@
       "minecraft:sunflower_plains": "2025-08-25 19:08:00 +0000",
       "minecraft:beach": "2025-08-25 19:32:13 +0000",
       "minecraft:river": "2025-08-25 19:07:56 +0000",
+      "minecraft:dripstone_caves": "2025-08-26 19:36:07 +0000",
       "minecraft:forest": "2025-08-25 19:07:30 +0000",
       "minecraft:ocean": "2025-08-25 19:47:18 +0000",
       "minecraft:windswept_savanna": "2025-08-25 19:45:54 +0000",
@@ -231,12 +232,15 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-08-26 19:58:30 +0000",
       "cooked_beef": "2025-08-25 20:00:09 +0000",
+      "beef": "2025-08-26 19:35:20 +0000",
       "porkchop": "2025-08-25 19:43:52 +0000",
       "apple": "2025-08-25 19:56:10 +0000",
       "mutton": "2025-08-25 19:06:40 +0000",
       "golden_apple": "2025-08-25 19:53:23 +0000",
       "rotten_flesh": "2025-08-25 19:08:57 +0000",
+      "melon_slice": "2025-08-26 19:45:41 +0000",
       "golden_carrot": "2025-08-25 20:19:31 +0000",
       "cooked_chicken": "2025-08-25 19:51:13 +0000",
       "carrot": "2025-08-25 19:51:37 +0000"
@@ -1472,9 +1476,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-08-26 19:37:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-08-26 19:29:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-26 19:45:32 +0000"
     },
     "done": true
   },
@@ -1484,9 +1500,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-08-26 19:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-26 19:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-08-26 19:37:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-08-26 19:29:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-26 19:37:06 +0000"
     },
     "done": true
   },
@@ -1508,9 +1548,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-08-26 19:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-08-26 19:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-08-26 19:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-08-26 19:37:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-08-26 19:29:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-26 19:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-26 19:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-26 19:37:06 +0000"
     },
     "done": true
   },
@@ -1520,9 +1602,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-08-26 19:34:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-08-26 19:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-08-26 19:53:55 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-08-26 19:17:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-26 19:37:06 +0000"
     },
     "done": true
   },
@@ -1538,6 +1644,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-08-26 19:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-26 19:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-08-26 20:01:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-08-26 19:29:09 +0000"
@@ -1550,9 +1674,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-08-26 19:34:43 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-08-26 19:17:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-08-26 19:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-08-26 19:34:43 +0000"
     },
     "done": true
   },
