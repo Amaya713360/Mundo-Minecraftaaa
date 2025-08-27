@@ -8995,3 +8995,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [27Aug2025 20:17:39.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has reached the goal [Home Sweet Home]
 [27Aug2025 20:17:39.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Aug2025 20:17:39.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 20:22:39.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 20:22:39.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 20:27:39.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Aug2025 20:27:39.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Aug2025 20:29:05.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [Chompy]
