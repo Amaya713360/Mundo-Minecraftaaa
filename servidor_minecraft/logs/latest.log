@@ -1931,3 +1931,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [27Aug2025 18:22:55.535] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:45869] logged in with entity id 6338 at (-111.32132300101347, 94.0, -1447.423036237556)
 [27Aug2025 18:22:55.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
 [27Aug2025 18:26:16.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has completed the challenge [The Power of the Sun]
+[27Aug2025 18:41:32.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has reached the goal [Strong or Careful]
+[27Aug2025 18:41:32.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was slain by Cave Centipede
+[27Aug2025 18:41:32.537] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[27Aug2025 18:42:15.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [What a Deal!]
