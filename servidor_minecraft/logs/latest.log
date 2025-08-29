@@ -184,3 +184,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [29Aug2025 22:46:30.202] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:33819] logged in with entity id 813 at (-338.40250805172576, 68.0, -1416.5322189850929)
 [29Aug2025 22:46:30.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
 [29Aug2025 23:15:05.643] [Worker-Main-38/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[29Aug2025 23:29:52.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has reached the goal [Strong or Careful]
+[29Aug2025 23:29:52.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo fell from a high place
+[29Aug2025 23:29:52.518] [Server thread/INFO] [tombstone/]: The player facuuundooo has successfully been saved
+[29Aug2025 23:29:54.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [The Most Useful Key]
+[29Aug2025 23:29:59.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has reached the goal [A Fast Comeback]
