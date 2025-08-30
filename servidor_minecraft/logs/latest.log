@@ -253,3 +253,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [30Aug2025 15:09:01.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Into Fire]
 [30Aug2025 15:13:26.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2218ms or 44 ticks behind
 [30Aug2025 15:13:33.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Straddle My Ol' Saddle]
+[30Aug2025 15:20:05.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo was shot by caver
+[30Aug2025 15:20:05.565] [Server thread/INFO] [tombstone/]: The player facuuundooo has successfully been saved
+[30Aug2025 15:20:18.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [We Need to Go Deeper]
+[30Aug2025 15:20:18.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [Incendium]
+[30Aug2025 15:20:20.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [Hellfire Mantle]
+[30Aug2025 15:20:20.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [Strange Biomes]
+[30Aug2025 15:20:38.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was shot by facuuundooo
+[30Aug2025 15:20:38.589] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved

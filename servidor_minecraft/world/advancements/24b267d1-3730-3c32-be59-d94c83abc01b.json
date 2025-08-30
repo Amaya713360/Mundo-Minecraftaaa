@@ -1138,6 +1138,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-25 19:52:10 +0000",
       "minecraft:spider": "2025-08-25 19:52:02 +0000",
+      "minecraft:creeper": "2025-08-30 15:17:38 +0000",
       "minecraft:witch": "2025-08-26 19:17:11 +0000",
       "minecraft:wither_skeleton": "2025-08-25 20:09:55 +0000",
       "minecraft:husk": "2025-08-27 18:59:18 +0000",
@@ -3571,9 +3572,21 @@
     },
     "done": true
   },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-08-30 15:20:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/television_remote": {
     "criteria": {
       "has_copper_ingot": "2025-08-30 14:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-30 15:20:18 +0000"
     },
     "done": true
   },
@@ -3640,6 +3653,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-08-30 14:52:48 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-08-30 15:20:20 +0000"
     },
     "done": true
   },
@@ -3727,6 +3746,18 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-30 15:20:18 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-08-30 15:20:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-08-30 14:55:41 +0000"
@@ -3768,6 +3799,12 @@
       "has_spruce_planks": "2025-08-30 14:52:48 +0000"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-08-30 15:20:20 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
     "criteria": {

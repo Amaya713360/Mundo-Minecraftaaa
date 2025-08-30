@@ -5376,3 +5376,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [30Aug2025 15:13:33.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Straddle My Ol' Saddle]
 [30Aug2025 15:13:34.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Aug2025 15:13:34.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 15:15:55.230] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756566955230
+[30Aug2025 15:18:34.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 15:18:34.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 15:20:05.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo was shot by caver
+[30Aug2025 15:20:05.560] [Server thread/DEBUG] [tombstone/]: A new grave of the player facuuundooo was created at position [x:-116, y:91, z:-1467, dim:minecraft:overworld]
+[30Aug2025 15:20:05.565] [Server thread/INFO] [tombstone/]: The player facuuundooo has successfully been saved
+[30Aug2025 15:20:07.375] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756567207374
+[30Aug2025 15:20:18.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [We Need to Go Deeper]
+[30Aug2025 15:20:18.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [Incendium]
+[30Aug2025 15:20:19.851] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756567218766
+[30Aug2025 15:20:20.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [Hellfire Mantle]
+[30Aug2025 15:20:20.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [Strange Biomes]
+[30Aug2025 15:20:28.555] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756567228542
+[30Aug2025 15:20:38.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was shot by facuuundooo
+[30Aug2025 15:20:38.577] [Server thread/DEBUG] [tombstone/]: A new grave of the player caver was created at position [x:-19, y:111, z:-189, dim:minecraft:the_nether]
+[30Aug2025 15:20:38.589] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[30Aug2025 15:20:40.927] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756567240898
+[30Aug2025 15:20:49.359] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756567249340
+[30Aug2025 15:21:09.591] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756567269582
+[30Aug2025 15:21:13.141] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756567273106
+[30Aug2025 15:23:34.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 15:23:34.851] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 15:24:40.563] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756567480555
