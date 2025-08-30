@@ -178,3 +178,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [30Aug2025 02:32:44.974] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
 [30Aug2025 02:32:45.118] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:32893] logged in with entity id 412 at (-346.5780646194335, 65.0, -1421.2270241786)
 [30Aug2025 02:32:45.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
+[30Aug2025 02:56:13.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has reached the goal [Great minds think alike]
+[30Aug2025 02:56:56.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo moved too quickly! -9.825632304374722,-1.9902083239968995,-1.0523064246156082
+[30Aug2025 02:56:58.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo moved too quickly! -8.087544966408814,4.537924026076814,4.596144716700792
+[30Aug2025 02:57:05.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo was kicked for floating too long!
+[30Aug2025 02:57:05.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo lost connection: Disconnected
+[30Aug2025 02:57:05.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo left the game
+[30Aug2025 02:57:05.490] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Aug2025 02:57:16.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:59599] logged in with entity id 10339 at (-346.1776002490847, 0.17675927506423733, -1042.9055911163555)
+[30Aug2025 02:57:16.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
