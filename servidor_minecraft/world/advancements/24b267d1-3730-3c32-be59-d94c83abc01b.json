@@ -1144,6 +1144,7 @@
       "minecraft:husk": "2025-08-27 18:59:18 +0000",
       "minecraft:cave_spider": "2025-08-25 20:14:35 +0000",
       "minecraft:silverfish": "2025-08-26 20:19:40 +0000",
+      "minecraft:enderman": "2025-08-30 15:31:14 +0000",
       "minecraft:zombie": "2025-08-25 19:56:44 +0000"
     },
     "done": false
@@ -3626,6 +3627,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-08-30 15:28:54 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
     "criteria": {
       "has_copper_ingot": "2025-08-30 14:55:41 +0000"
@@ -3758,6 +3765,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-08-30 15:28:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-08-30 14:55:41 +0000"
@@ -3797,6 +3810,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-08-30 14:52:48 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-08-30 15:29:31 +0000"
     },
     "done": true
   },

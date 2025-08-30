@@ -261,3 +261,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [30Aug2025 15:20:20.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [Strange Biomes]
 [30Aug2025 15:20:38.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was shot by facuuundooo
 [30Aug2025 15:20:38.589] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[30Aug2025 15:25:41.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was slain by Straddler
+[30Aug2025 15:25:41.562] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[30Aug2025 15:29:31.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [Amateur Archaeologist]
+[30Aug2025 15:32:34.115] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=400, y=70, z=-766} BlockPos{x=400, y=69, z=-767}
