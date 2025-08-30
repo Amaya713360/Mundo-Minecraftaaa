@@ -14,6 +14,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2025-08-25 19:07:54 +0000",
+      "minecraft:cherry_grove": "2025-08-30 15:34:36 +0000",
       "minecraft:birch_forest": "2025-08-25 20:28:08 +0000",
       "minecraft:beach": "2025-08-25 00:19:36 +0000",
       "minecraft:dark_forest": "2025-08-25 20:28:45 +0000",
@@ -4630,6 +4631,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_purification": {
+    "criteria": {
+      "has_magic_scroll": "2025-08-30 15:42:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-30 15:08:55 +0000"
@@ -4654,6 +4661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-08-30 15:34:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-08-30 15:18:04 +0000"
@@ -4672,9 +4685,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-08-30 15:34:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-08-30 15:06:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-08-30 15:34:24 +0000"
     },
     "done": true
   },

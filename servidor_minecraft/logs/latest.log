@@ -265,3 +265,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [30Aug2025 15:25:41.562] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
 [30Aug2025 15:29:31.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [Amateur Archaeologist]
 [30Aug2025 15:32:34.115] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=400, y=70, z=-766} BlockPos{x=400, y=69, z=-767}
+[30Aug2025 15:36:04.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-119, y=91, z=-1450} BlockPos{x=-120, y=90, z=-1450}
+[30Aug2025 15:36:15.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was slain by Zombie
+[30Aug2025 15:36:15.519] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[30Aug2025 15:36:34.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Disconnected
+[30Aug2025 15:36:34.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
+[30Aug2025 15:42:21.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has reached the goal [A little cleaning is necessary]

@@ -8935,3 +8935,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [30Aug2025 15:34:55.729] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/crumbled with rotation CLOCKWISE_180 at (1007 | 62 | -890)
 [30Aug2025 15:34:55.729] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_180 at (1001 | 55 | -896)
 [30Aug2025 15:34:55.730] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_180 at (1001 | 55 | -896)
+[30Aug2025 15:36:04.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-119, y=91, z=-1450} BlockPos{x=-120, y=90, z=-1450}
+[30Aug2025 15:36:15.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was slain by Zombie
+[30Aug2025 15:36:15.503] [Server thread/DEBUG] [tombstone/]: A new grave of the player caver was created at position [x:-104, y:91, z:-1451, dim:minecraft:overworld]
+[30Aug2025 15:36:15.519] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[30Aug2025 15:36:17.130] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756568177129
+[30Aug2025 15:36:34.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Disconnected
+[30Aug2025 15:36:34.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
+[30Aug2025 15:38:34.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 15:38:34.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 15:42:21.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has reached the goal [A little cleaning is necessary]
+[30Aug2025 15:43:34.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 15:43:34.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
