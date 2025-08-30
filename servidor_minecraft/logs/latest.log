@@ -271,3 +271,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [30Aug2025 15:36:34.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Disconnected
 [30Aug2025 15:36:34.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
 [30Aug2025 15:42:21.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has reached the goal [A little cleaning is necessary]
+[30Aug2025 15:56:59.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo moved wrongly!
