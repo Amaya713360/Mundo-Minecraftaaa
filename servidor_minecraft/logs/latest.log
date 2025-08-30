@@ -183,3 +183,42 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [30Aug2025 13:34:37.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
 [30Aug2025 13:34:39.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
 [30Aug2025 13:38:42.905] [Worker-Main-3/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[30Aug2025 13:43:17.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was doomed to fall by facuuundooo
+[30Aug2025 13:43:17.537] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[30Aug2025 13:44:25.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo fell from a high place
+[30Aug2025 13:44:25.490] [Server thread/INFO] [tombstone/]: The player facuuundooo has successfully been saved
+[30Aug2025 13:44:27.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver was kicked for floating too long!
+[30Aug2025 13:44:27.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Flying is not enabled on this server
+[30Aug2025 13:44:27.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
+[30Aug2025 13:44:37.917] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:43925] logged in with entity id 5982 at (-369.6968894359007, 52.14998983419154, -1433.133426684599)
+[30Aug2025 13:44:37.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
+[30Aug2025 13:44:41.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo was kicked for floating too long!
+[30Aug2025 13:44:41.250] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo lost connection: Flying is not enabled on this server
+[30Aug2025 13:44:41.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo left the game
+[30Aug2025 13:44:44.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver was kicked for floating too long!
+[30Aug2025 13:44:44.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Flying is not enabled on this server
+[30Aug2025 13:44:44.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
+[30Aug2025 13:44:48.705] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:59609] logged in with entity id 6013 at (-368.4713484332122, 63.28549238931866, -1435.188833019748)
+[30Aug2025 13:44:48.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
+[30Aug2025 13:44:51.310] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:38263] logged in with entity id 6262 at (-373.5041486879415, 40.39730463914487, -1431.917504822466)
+[30Aug2025 13:44:51.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
+[30Aug2025 13:44:55.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo was kicked for floating too long!
+[30Aug2025 13:44:55.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo lost connection: Flying is not enabled on this server
+[30Aug2025 13:44:55.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo left the game
+[30Aug2025 13:44:57.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver was kicked for floating too long!
+[30Aug2025 13:44:57.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Flying is not enabled on this server
+[30Aug2025 13:44:57.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
+[30Aug2025 13:45:03.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:40983] logged in with entity id 6279 at (-370.70545326410604, 48.03726557633463, -1441.0852859807776)
+[30Aug2025 13:45:03.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
+[30Aug2025 13:45:03.793] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:55879] logged in with entity id 6281 at (-371.7529125817412, 25.32385490705779, -1433.1145482478848)
+[30Aug2025 13:45:03.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
+[30Aug2025 13:46:11.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was doomed to fall by facuuundooo
+[30Aug2025 13:46:11.919] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[30Aug2025 13:49:20.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was slain by facuuundooo
+[30Aug2025 13:49:20.740] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[30Aug2025 13:52:31.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caver> foeooooooooooo
+[30Aug2025 13:52:33.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caver> eee
+[30Aug2025 13:52:35.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caver> s
+[30Aug2025 13:52:40.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caver> zzzzzzz
+[30Aug2025 13:52:43.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caver> zzzzzz
+[30Aug2025 13:53:00.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuuundooo> fieraso
