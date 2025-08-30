@@ -3655,6 +3655,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-08-30 15:12:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-08-30 14:55:41 +0000"
@@ -3685,6 +3691,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
+    "criteria": {
+      "has_andesite": "2025-08-30 15:13:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-08-30 14:53:48 +0000"
@@ -3700,6 +3712,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-30 14:52:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-08-30 15:12:45 +0000"
     },
     "done": true
   },
@@ -3733,6 +3751,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-30 15:12:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
     "criteria": {
       "has_spruce_planks": "2025-08-30 14:52:48 +0000"
@@ -3748,6 +3772,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-08-30 14:55:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-08-30 15:12:45 +0000"
     },
     "done": true
   },

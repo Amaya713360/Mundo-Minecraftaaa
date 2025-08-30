@@ -244,3 +244,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [30Aug2025 14:48:34.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
 [30Aug2025 15:02:22.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo froze to death
 [30Aug2025 15:02:22.473] [Server thread/INFO] [tombstone/]: The player facuuundooo has successfully been saved
+[30Aug2025 15:08:01.211] [Worker-Main-3/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[30Aug2025 15:08:03.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [We Need to Go Deeper]
+[30Aug2025 15:08:03.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Incendium]
+[30Aug2025 15:08:07.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6572ms or 131 ticks behind
+[30Aug2025 15:08:07.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Hellfire Mantle]
+[30Aug2025 15:08:07.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Strange Biomes]
+[30Aug2025 15:09:01.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Into Fire]
+[30Aug2025 15:13:26.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2218ms or 44 ticks behind
+[30Aug2025 15:13:33.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Straddle My Ol' Saddle]
