@@ -229,3 +229,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [30Aug2025 14:16:29.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuuundooo> feiro
 [30Aug2025 14:18:15.552] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,sophisticatedbackpacks:channel,citadel:main_channel,framework:play,tacz:handshake,curios:main,casinocraft:main,framework:handshake,forge:tier_sorting,alexsmobs:main_channel,tombstone:tombstone_channel,cosmeticarmorreworked:main,sophisticatedcore:channel,ironchest:network,tacz:network,refurbished_furniture:play] rejected vanilla connections
 [30Aug2025 14:18:15.553] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.237.60.187:40189] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[30Aug2025 14:25:33.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Disconnected
+[30Aug2025 14:25:33.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
+[30Aug2025 14:30:22.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Ambush]
+[30Aug2025 14:32:25.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [The Lighthouse]
+[30Aug2025 14:33:38.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9371ms or 187 ticks behind
