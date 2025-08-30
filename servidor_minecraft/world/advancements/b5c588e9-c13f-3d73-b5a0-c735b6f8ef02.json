@@ -3907,12 +3907,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
-    "criteria": {
-      "has_sweet_berries": "2025-08-29 23:18:58 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-08-29 23:07:07 +0000"
@@ -3925,9 +3919,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/teleport_to_grave": {
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
     "criteria": {
-      "coded_trigger": "2025-08-29 23:29:59 +0000"
+      "has_sweet_berries": "2025-08-29 23:18:58 +0000"
     },
     "done": true
   },
@@ -3946,6 +3940,12 @@
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-08-29 23:29:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-08-29 23:29:59 +0000"
     },
     "done": true
   },
