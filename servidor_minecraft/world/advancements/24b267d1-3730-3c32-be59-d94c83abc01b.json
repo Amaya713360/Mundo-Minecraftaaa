@@ -3541,5 +3541,11 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2025-08-30 13:54:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

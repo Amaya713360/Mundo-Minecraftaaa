@@ -3659,3 +3659,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [30Aug2025 13:52:40.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caver> zzzzzzz
 [30Aug2025 13:52:43.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caver> zzzzzz
 [30Aug2025 13:53:00.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuuundooo> fieraso
+[30Aug2025 13:53:16.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 13:53:16.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 13:58:16.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 13:58:16.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 14:03:16.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 14:03:16.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 14:04:26.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caver> es
+[30Aug2025 14:05:14.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuuundooo> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[30Aug2025 14:05:17.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuuundooo> zzzzzzzzzzzzzzzzzzzzzz
+[30Aug2025 14:05:22.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuuundooo> zzz...
+[30Aug2025 14:08:16.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 14:08:16.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 14:13:16.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 14:13:16.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
