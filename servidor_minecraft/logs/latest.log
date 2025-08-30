@@ -234,3 +234,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [30Aug2025 14:30:22.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Ambush]
 [30Aug2025 14:32:25.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [The Lighthouse]
 [30Aug2025 14:33:38.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9371ms or 187 ticks behind
+[30Aug2025 14:39:05.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Ghost Riders In The Sky]
+[30Aug2025 14:42:51.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:56929] logged in with entity id 28319 at (-87.04808991801569, 94.0, -1438.2768400250334)
+[30Aug2025 14:42:51.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
+[30Aug2025 14:48:24.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo was kicked for floating too long!
+[30Aug2025 14:48:24.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo lost connection: Flying is not enabled on this server
+[30Aug2025 14:48:24.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo left the game
+[30Aug2025 14:48:34.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:35249] logged in with entity id 31233 at (85.37667600152936, 86.40497492218039, -2836.0596758117695)
+[30Aug2025 14:48:34.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
+[30Aug2025 15:02:22.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo froze to death
+[30Aug2025 15:02:22.473] [Server thread/INFO] [tombstone/]: The player facuuundooo has successfully been saved
