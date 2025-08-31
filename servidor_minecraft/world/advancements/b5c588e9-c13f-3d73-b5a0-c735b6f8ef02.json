@@ -5352,6 +5352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-08-31 18:55:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
     "criteria": {
       "has_yellow_dye": "2025-08-31 18:48:13 +0000"
