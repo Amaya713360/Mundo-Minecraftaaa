@@ -2728,3 +2728,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [31Aug2025 18:17:58.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [31Aug2025 18:22:58.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Aug2025 18:22:58.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Aug2025 18:27:58.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Aug2025 18:27:58.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Aug2025 18:30:46.844] [Worker-Main-43/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[31Aug2025 18:30:47.183] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1756665046351
+[31Aug2025 18:32:58.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Aug2025 18:32:58.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
