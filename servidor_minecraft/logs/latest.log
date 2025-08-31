@@ -183,3 +183,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [31Aug2025 17:26:33.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5410ms or 108 ticks behind
 [31Aug2025 17:26:33.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo moved too quickly! -1.2455523169785394,-0.9254232959521005,9.939308951146586
 [31Aug2025 18:30:46.844] [Worker-Main-43/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[31Aug2025 18:35:14.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=78, z=-332} BlockPos{x=-53, y=78, z=-336}
+[31Aug2025 18:36:57.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-50, y=75, z=-332} BlockPos{x=-49, y=73, z=-332}
