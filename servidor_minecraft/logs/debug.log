@@ -2701,3 +2701,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [01Sep2025 21:51:22.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo moved wrongly!
 [01Sep2025 21:54:15.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Sep2025 21:54:15.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Sep2025 21:59:15.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Sep2025 21:59:15.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Sep2025 22:04:15.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Sep2025 22:04:15.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
