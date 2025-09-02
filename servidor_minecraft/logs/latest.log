@@ -204,3 +204,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [02Sep2025 23:05:52.885] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
 [02Sep2025 23:05:53.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12162ms or 243 ticks behind
 [02Sep2025 23:10:48.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has completed the challenge [It Spreads]
+[02Sep2025 23:24:50.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo lost connection: Disconnected
+[02Sep2025 23:24:50.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo left the game
