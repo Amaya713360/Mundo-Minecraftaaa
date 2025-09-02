@@ -31,6 +31,7 @@
       "minecraft:windswept_savanna": "2025-08-25 19:45:29 +0000",
       "minecraft:flower_forest": "2025-08-25 19:33:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-25 20:28:54 +0000",
+      "minecraft:deep_dark": "2025-09-02 23:10:30 +0000",
       "minecraft:meadow": "2025-08-30 15:32:06 +0000",
       "minecraft:savanna": "2025-08-30 02:42:07 +0000",
       "minecraft:plains": "2025-08-24 23:58:17 +0000"
@@ -395,6 +396,7 @@
       "minecraft:enderman": "2025-08-26 20:18:10 +0000",
       "minecraft:silverfish": "2025-08-30 02:48:05 +0000",
       "minecraft:zombie": "2025-08-25 19:06:53 +0000",
+      "minecraft:drowned": "2025-09-02 23:10:59 +0000",
       "minecraft:zombie_villager": "2025-08-31 16:13:43 +0000"
     },
     "done": false
@@ -6265,79 +6267,19 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-01 22:21:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-01 22:21:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-01 22:21:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-01 22:21:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-01 22:21:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-01 22:21:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-01 22:21:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-01 22:21:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-01 22:21:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-01 22:21:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-01 22:21:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-01 22:21:15 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-09-01 21:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-09-01 21:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-09-01 21:50:29 +0000"
     },
@@ -6346,12 +6288,6 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-09-01 22:00:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-09-01 21:50:29 +0000"
     },
     "done": true
   },
@@ -6367,9 +6303,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
-      "has_rail": "2025-09-01 21:50:29 +0000"
+      "has_pink_petals": "2025-09-02 23:03:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-09-02 23:03:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-09-02 23:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-09-02 23:10:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-09-02 22:57:21 +0000"
     },
     "done": true
   },

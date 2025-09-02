@@ -175,3 +175,32 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [02Sep2025 22:42:25.281] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5321 ms
 [02Sep2025 22:42:25.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.304s)! For help, type "help"
 [02Sep2025 22:42:25.313] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02Sep2025 22:53:34.723] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[02Sep2025 22:53:35.175] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:46599] logged in with entity id 442 at (-361.82499998807907, 65.0, -1426.2552109913292)
+[02Sep2025 22:53:35.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
+[02Sep2025 22:53:40.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5919ms or 118 ticks behind
+[02Sep2025 22:55:35.338] [Worker-Main-20/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[02Sep2025 22:57:21.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Chompy]
+[02Sep2025 23:02:50.189] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=911, y=-16, z=-114}
+[02Sep2025 23:02:50.192] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=909, y=-11, z=-121}
+[02Sep2025 23:02:50.193] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=911, y=-16, z=-108}
+[02Sep2025 23:02:50.193] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=913, y=-11, z=-121}
+[02Sep2025 23:02:50.429] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=892, y=-3, z=-120}
+[02Sep2025 23:02:56.697] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=911, y=-16, z=-136}
+[02Sep2025 23:02:56.698] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=909, y=-11, z=-123}
+[02Sep2025 23:02:56.698] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=907, y=-10, z=-124}
+[02Sep2025 23:02:56.699] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=913, y=-11, z=-123}
+[02Sep2025 23:02:56.699] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=912, y=-10, z=-125}
+[02Sep2025 23:03:26.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has completed the challenge [Free Willy]
+[02Sep2025 23:05:51.426] [Worker-Main-29/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Sep2025 23:05:52.161] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Sep2025 23:05:52.176] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Sep2025 23:05:52.202] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Sep2025 23:05:52.297] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Sep2025 23:05:52.823] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Sep2025 23:05:52.864] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Sep2025 23:05:52.871] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Sep2025 23:05:52.879] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Sep2025 23:05:52.885] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Sep2025 23:05:53.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12162ms or 243 ticks behind
+[02Sep2025 23:10:48.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has completed the challenge [It Spreads]
