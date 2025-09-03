@@ -1986,3 +1986,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [03Sep2025 22:50:41.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
 [03Sep2025 22:50:59.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported caver to facuuundooo
 [03Sep2025 22:54:09.142] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1049, l='ServerLevel[world]', x=701.64, y=62.62, z=-794.65] died, message: 'Villager was slain by Zombie'
+[03Sep2025 23:01:30.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=732, y=64, z=-809} BlockPos{x=733, y=62, z=-810}
