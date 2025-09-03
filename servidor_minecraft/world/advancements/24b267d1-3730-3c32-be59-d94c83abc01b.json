@@ -4352,5 +4352,17 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_cube": {
+    "criteria": {
+      "hasPlanks": "2025-09-03 23:12:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-09-03 23:19:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

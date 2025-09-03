@@ -1989,3 +1989,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [03Sep2025 23:01:30.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=732, y=64, z=-809} BlockPos{x=733, y=62, z=-810}
 [03Sep2025 23:16:04.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was killed by magic whilst trying to escape facuuundooo
 [03Sep2025 23:16:04.761] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[03Sep2025 23:20:02.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Disconnected
+[03Sep2025 23:20:02.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
+[03Sep2025 23:20:36.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:53181] logged in with entity id 7622 at (670.0469609815982, 68.0, -790.8082814682541)
+[03Sep2025 23:20:36.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
+[03Sep2025 23:21:40.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Disconnected
+[03Sep2025 23:21:40.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
+[03Sep2025 23:24:30.300] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:46455] logged in with entity id 10118 at (655.158468047583, 72.0, -773.4545248267434)
+[03Sep2025 23:24:30.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game

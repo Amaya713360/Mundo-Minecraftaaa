@@ -6569,6 +6569,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-09-03 23:20:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-09-03 22:53:34 +0000"
