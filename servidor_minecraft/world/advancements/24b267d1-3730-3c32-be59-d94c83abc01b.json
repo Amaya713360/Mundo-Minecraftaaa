@@ -13,8 +13,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-09-03 20:07:50 +0000",
       "minecraft:sunflower_plains": "2025-08-25 19:08:00 +0000",
       "minecraft:cherry_grove": "2025-08-27 19:32:24 +0000",
+      "minecraft:birch_forest": "2025-09-03 20:06:45 +0000",
       "minecraft:beach": "2025-08-25 19:32:13 +0000",
       "minecraft:river": "2025-08-25 19:07:56 +0000",
       "minecraft:dripstone_caves": "2025-08-26 19:36:07 +0000",
@@ -1138,6 +1140,8 @@
     "criteria": {
       "minecraft:blaze": "2025-08-31 19:16:00 +0000",
       "minecraft:skeleton": "2025-08-25 19:52:10 +0000",
+      "minecraft:guardian": "2025-09-03 20:25:10 +0000",
+      "minecraft:vindicator": "2025-09-03 20:21:52 +0000",
       "minecraft:spider": "2025-08-25 19:52:02 +0000",
       "minecraft:creeper": "2025-08-30 15:17:38 +0000",
       "minecraft:witch": "2025-08-26 19:17:11 +0000",
@@ -3973,6 +3977,36 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-31 19:16:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-09-03 20:05:47 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-09-03 20:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-03 20:20:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-09-03 20:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-09-03 20:20:35 +0000"
     },
     "done": true
   },

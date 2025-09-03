@@ -188,3 +188,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [03Sep2025 19:57:28.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
 [03Sep2025 19:57:28.069] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
 [03Sep2025 19:58:36.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTrader['Caver II'/12054, l='ServerLevel[world]', x=-363.18, y=26.00, z=-1435.96] died: Caver II was doomed to fall by caver
+[03Sep2025 20:05:47.901] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/22837, l='ServerLevel[world]', x=-364.24, y=66.00, z=-1404.21] died, message: 'Librarian was shot by caver'
+[03Sep2025 20:05:47.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [Neighborhood Brawl]
+[03Sep2025 20:07:31.357] [Worker-Main-2/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[03Sep2025 20:08:28.965] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/27870, l='ServerLevel[world]', x=919.39, y=66.00, z=-1573.66] died, message: '1$s has perished from holy damage'
+[03Sep2025 20:08:28.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Neighborhood Brawl]
+[03Sep2025 20:08:45.608] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/28373, l='ServerLevel[world]', x=941.55, y=63.00, z=-1623.20] died, message: '1$s has perished from holy damage'
+[03Sep2025 20:08:47.807] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/28374, l='ServerLevel[world]', x=940.70, y=63.06, z=-1628.50] died, message: '1$s has perished from holy damage'
+[03Sep2025 20:08:57.847] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/28487, l='ServerLevel[world]', x=949.71, y=64.88, z=-1639.22] died, message: '1$s has perished from holy damage'
+[03Sep2025 20:09:09.954] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/28143, l='ServerLevel[world]', x=897.82, y=65.00, z=-1581.88] died, message: '1$s has perished from holy damage'
+[03Sep2025 20:10:10.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was killed
+[03Sep2025 20:10:10.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed caver
+[03Sep2025 20:10:10.579] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[03Sep2025 20:10:11.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [You Are A Pirate]
+[03Sep2025 20:10:34.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver was kicked for floating too long!
+[03Sep2025 20:10:34.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Flying is not enabled on this server
+[03Sep2025 20:10:34.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
+[03Sep2025 20:10:45.304] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:60259] logged in with entity id 31672 at (-166.01270698041006, 77.28549238931866, -1485.903745949829)
+[03Sep2025 20:10:45.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
+[03Sep2025 20:11:48.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed caver
+[03Sep2025 20:12:18.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed caver
+[03Sep2025 20:12:56.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported facuuundooo to caver
+[03Sep2025 20:14:32.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[03Sep2025 20:14:32.049] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[03Sep2025 20:22:16.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has reached the goal [Fortuitous Militia]
+[03Sep2025 20:28:01.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported facuuundooo to 597.500000, 64.000000, -865.500000
+[03Sep2025 20:28:13.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported caver to facuuundooo
