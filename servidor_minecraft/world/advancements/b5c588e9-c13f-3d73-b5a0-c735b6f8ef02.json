@@ -6473,6 +6473,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/cobbled_deepslate_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-03 22:53:34 +0000"
@@ -6494,6 +6500,12 @@
   "securitycraft:recipes/misc/motion_activated_light": {
     "criteria": {
       "has_stick": "2025-09-03 22:50:25 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_one_way_window": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
     },
     "done": true
   },
@@ -6521,9 +6533,33 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_button": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stairs": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gold_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-09-03 22:53:34 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_lattice_block": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
     },
     "done": true
   },
@@ -6539,9 +6575,39 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_secret_storage": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_sentry_armor_trim_smithing_template": "2025-09-03 23:27:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/lapis_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/stone_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_soul_torch": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/blast_furnace_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
     },
     "done": true
   },
@@ -6551,9 +6617,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/deepslate_coal_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-09-03 22:50:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_copper_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
     },
     "done": true
   },
@@ -6581,9 +6659,45 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_slope_slab": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-03 23:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-03 23:55:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-09-03 22:53:34 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stone_button": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-03 23:55:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_prism_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-03 23:42:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
     },
     "done": true
   },
@@ -6605,6 +6719,18 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_vertical_stairs": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_lever": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-09-03 22:53:34 +0000"
@@ -6617,15 +6743,45 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/copper_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/iron_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gilded_blackstone_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-09-03 22:50:25 +0000"
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_fancy_rail": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-03 22:53:34 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_double_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-03 23:42:44 +0000"
     },
     "done": true
   },
@@ -6638,6 +6794,24 @@
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-09-03 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/cobblestone_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fence_gate": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/coal_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
     },
     "done": true
   },
@@ -6659,6 +6833,18 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_chiseled_bookshelf": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_redstone_torch": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/briefcase": {
     "criteria": {
       "has_iron": "2025-09-03 22:52:20 +0000"
@@ -6677,9 +6863,33 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_door": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_iron_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/remote_access_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-09-03 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_pane": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
     },
     "done": true
   },
@@ -6725,6 +6935,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_prism": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-03 23:42:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-03 22:53:34 +0000"
@@ -6743,6 +6959,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_fence": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/mine": {
     "criteria": {
       "has_iron": "2025-09-03 22:52:20 +0000"
@@ -6755,15 +6977,75 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_inner_threeway_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-03 23:42:44 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_inner_corner_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-03 23:42:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2025-09-03 22:52:25 +0000"
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_bouncy_cube": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_torch": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_thick_lattice": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sonic_security_system": {
     "criteria": {
       "has_stick": "2025-09-03 22:50:25 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slope_edge": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-03 23:42:44 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slope": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_detector_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-03 23:42:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_gold_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
     },
     "done": true
   },
@@ -6809,9 +7091,45 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_corner_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-03 23:42:44 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_gold_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framing_saw": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-03 22:53:34 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_obsidian_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_bars": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/redstone_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
     },
     "done": true
   },
@@ -6821,9 +7139,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/deepslate_diamond_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/speed_module": {
     "criteria": {
       "has_iron": "2025-09-03 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/suspicious_sand_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
     },
     "done": true
   },
@@ -6845,6 +7175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-03 23:55:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2025-09-03 22:52:25 +0000"
@@ -6860,6 +7196,12 @@
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2025-09-03 23:05:33 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_activator_rail": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
     },
     "done": true
   },
@@ -6881,6 +7223,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-09-03 23:51:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_crimson_fence": {
     "criteria": {
       "has_stick": "2025-09-03 22:50:25 +0000"
@@ -6899,9 +7247,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-03 23:55:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_remover": {
     "criteria": {
       "has_iron": "2025-09-03 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_panel": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
     },
     "done": true
   },
@@ -6911,9 +7271,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/gravel_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-09-03 22:53:34 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_flower_pot": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stone_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
     },
     "done": true
   },
@@ -6926,6 +7304,12 @@
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2025-09-03 22:52:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_redstone_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
     },
     "done": true
   },
@@ -6953,6 +7337,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/emerald_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-09-03 22:52:20 +0000"
@@ -6962,6 +7352,30 @@
   "securitycraft:recipes/misc/bouncing_betty": {
     "criteria": {
       "has_iron": "2025-09-03 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_detector_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-03 23:42:44 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_collapsible_block": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_activator_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-03 23:42:44 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_chest": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
     },
     "done": true
   },
@@ -6983,9 +7397,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/smoker_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-09-03 22:53:34 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slope_panel": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-03 23:42:44 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/misc/framed_reinforcement": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
     },
     "done": true
   },
@@ -7007,9 +7439,39 @@
     },
     "done": true
   },
+  "framedblocks:recipes/tools/framed_hammer": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-03 23:42:44 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_target": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2025-09-03 22:50:25 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_ladder": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-03 23:42:44 +0000"
     },
     "done": true
   },
@@ -7025,9 +7487,39 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_item_frame": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_powered_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-03 23:42:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_magenta_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-09-03 22:53:34 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_threeway_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-03 23:42:44 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_screwdriver": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
     },
     "done": true
   },
@@ -7043,9 +7535,21 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_inner_prism_corner": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-03 23:42:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-03 22:53:34 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_tube": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
     },
     "done": true
   },
@@ -7055,9 +7559,51 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_collapsible_copycat_block": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sign": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_lapis_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/wire_cutters": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_corner_pillar": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_detector_rail": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2025-09-03 22:50:25 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_glowing_cube": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
     },
     "done": true
   },
@@ -7073,9 +7619,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-09-03 23:54:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-09-03 22:52:25 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_powered_rail": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/netherrack_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
     },
     "done": true
   },
@@ -7091,15 +7655,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/furnace_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-09-03 22:53:34 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/ancient_debris_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/end_stone_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-09-03 22:53:34 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_iron_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
     },
     "done": true
   },
@@ -7115,9 +7703,39 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_bookshelf": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_inner_prism": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-03 23:42:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/suspicious_gravel_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/dirt_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2025-09-03 22:52:25 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_redstone_block": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
     },
     "done": true
   },
@@ -7139,15 +7757,51 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_fancy_powered_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-03 23:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-03 23:55:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_key": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_wall": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-09-03 23:27:37 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/nether_gold_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/smart_module": {
     "criteria": {
       "has_iron": "2025-09-03 22:52:20 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/powered_framing_saw": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
     },
     "done": true
   },
@@ -7160,6 +7814,12 @@
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2025-09-03 22:52:25 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_activator_rail_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-03 23:42:44 +0000"
     },
     "done": true
   },
@@ -7193,9 +7853,21 @@
     },
     "done": true
   },
+  "framedblocks:recipes/tools/framed_blueprint": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-09-03 22:52:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/diamond_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
     },
     "done": true
   },
@@ -7217,9 +7889,45 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_pyramid_slab": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-03 23:42:44 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_hanging_sign": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-03 22:53:34 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_wrench": {
+    "criteria": {
+      "hasFramedCube": "2025-09-03 23:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-03 23:55:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/quartz_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/sand_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
     },
     "done": true
   },
@@ -7235,9 +7943,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/deepslate_emerald_mine": {
+    "criteria": {
+      "has_mine": "2025-09-03 23:50:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-09-03 22:53:34 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_half_slope": {
+    "criteria": {
+      "hasFramedSlope": "2025-09-03 23:42:44 +0000"
     },
     "done": true
   },
