@@ -6389,6 +6389,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2025-09-03 21:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-09-03 20:24:27 +0000"
@@ -6407,6 +6413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-09-03 20:51:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_slab": {
     "criteria": {
       "has_mud_bricks": "2025-09-03 20:15:38 +0000"
@@ -6416,6 +6428,12 @@
   "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
     "criteria": {
       "has_cobweb": "2025-09-03 20:22:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-09-03 20:51:34 +0000"
     },
     "done": true
   },

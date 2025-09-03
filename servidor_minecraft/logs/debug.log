@@ -3060,3 +3060,23 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [03Sep2025 20:37:12.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Sep2025 20:42:12.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Sep2025 20:42:12.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 20:44:32.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo moved wrongly!
+[03Sep2025 20:45:26.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo moved wrongly!
+[03Sep2025 20:45:26.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver moved wrongly!
+[03Sep2025 20:47:12.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 20:47:12.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 20:48:36.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=882, y=7, z=-1325} BlockPos{x=874, y=7, z=-1328}
+[03Sep2025 20:51:50.837] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/48739, l='ServerLevel[world]', x=844.50, y=74.00, z=-1381.50]
+[03Sep2025 20:51:50.838] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/48740, l='ServerLevel[world]', x=843.50, y=74.00, z=-1381.50]
+[03Sep2025 20:52:10.338] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/48892, l='ServerLevel[world]', x=856.50, y=59.00, z=-1376.50]
+[03Sep2025 20:52:10.339] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/48893, l='ServerLevel[world]', x=857.50, y=59.00, z=-1376.50]
+[03Sep2025 20:52:10.340] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/48894, l='ServerLevel[world]', x=854.50, y=59.00, z=-1375.50]
+[03Sep2025 20:52:10.340] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/48895, l='ServerLevel[world]', x=857.50, y=58.00, z=-1374.50]
+[03Sep2025 20:52:12.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 20:52:12.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 20:53:14.438] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Disconnected
+[03Sep2025 20:53:14.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
+[03Sep2025 20:57:12.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 20:57:12.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Sep2025 21:02:12.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Sep2025 21:02:12.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
