@@ -214,3 +214,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [03Sep2025 20:22:16.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has reached the goal [Fortuitous Militia]
 [03Sep2025 20:28:01.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported facuuundooo to 597.500000, 64.000000, -865.500000
 [03Sep2025 20:28:13.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported caver to facuuundooo
+[03Sep2025 20:33:17.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=665, y=53, z=-743} BlockPos{x=666, y=53, z=-743}
