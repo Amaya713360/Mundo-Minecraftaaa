@@ -1997,3 +1997,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [03Sep2025 23:21:40.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
 [03Sep2025 23:24:30.300] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:46455] logged in with entity id 10118 at (655.158468047583, 72.0, -773.4545248267434)
 [03Sep2025 23:24:30.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
+[03Sep2025 23:35:55.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=806, y=67, z=-1282} BlockPos{x=807, y=67, z=-1281}

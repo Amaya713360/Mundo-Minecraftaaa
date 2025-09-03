@@ -6539,6 +6539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-09-03 23:27:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2025-09-03 22:52:20 +0000"
@@ -7130,6 +7136,12 @@
   "securitycraft:recipes/misc/keypad_item": {
     "criteria": {
       "has_stone_button": "2025-09-03 22:52:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-03 23:27:37 +0000"
     },
     "done": true
   },
