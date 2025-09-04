@@ -281,3 +281,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [04Sep2025 18:49:42.006] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1467, y=16, z=323}
 [04Sep2025 18:49:42.007] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1460, y=16, z=323}
 [04Sep2025 18:49:42.008] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=17, z=321}
+[04Sep2025 18:56:05.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has reached the goal [The Next Generation]
+[04Sep2025 18:58:16.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has reached the goal [Sky's the Limit]
+[04Sep2025 18:59:44.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [Remote Getaway]
