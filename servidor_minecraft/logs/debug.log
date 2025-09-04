@@ -3454,3 +3454,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [04Sep2025 19:15:16.787] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=647, y=70, z=-774} BlockPos{x=649, y=67, z=-775}
 [04Sep2025 19:19:41.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Sep2025 19:19:41.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 19:24:26.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caver> |
+[04Sep2025 19:24:41.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 19:24:41.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 19:25:08.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuuundooo> zzzzzzzzzzzz
+[04Sep2025 19:25:26.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuuundooo> zzzzz
+[04Sep2025 19:25:28.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caver> aaa
+[04Sep2025 19:29:41.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 19:29:41.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
