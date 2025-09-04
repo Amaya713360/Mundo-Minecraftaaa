@@ -284,3 +284,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [04Sep2025 18:56:05.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has reached the goal [The Next Generation]
 [04Sep2025 18:58:16.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has reached the goal [Sky's the Limit]
 [04Sep2025 18:59:44.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [Remote Getaway]
+[04Sep2025 19:07:27.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=698, y=72, z=-712} BlockPos{x=698, y=72, z=-713}
+[04Sep2025 19:07:27.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=698, y=72, z=-712} BlockPos{x=698, y=72, z=-713}
+[04Sep2025 19:07:27.288] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=698, y=72, z=-712} BlockPos{x=698, y=72, z=-713}
+[04Sep2025 19:07:27.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=698, y=72, z=-712} BlockPos{x=698, y=72, z=-713}
+[04Sep2025 19:07:27.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=698, y=72, z=-712} BlockPos{x=698, y=72, z=-713}
