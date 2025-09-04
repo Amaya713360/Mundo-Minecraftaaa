@@ -3120,3 +3120,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [04Sep2025 22:03:50.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Sep2025 22:08:50.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Sep2025 22:08:50.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 22:13:50.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 22:13:50.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 22:15:34.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2090, y=25, z=-1197} BlockPos{x=2093, y=27, z=-1197}
+[04Sep2025 22:16:45.965] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2095, y=27, z=-1196} BlockPos{x=2036, y=22, z=-1215}
+[04Sep2025 22:18:50.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 22:18:50.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 22:21:03.938] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[04Sep2025 22:21:03.938] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to mdf77dca$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin

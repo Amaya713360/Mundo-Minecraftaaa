@@ -188,3 +188,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [04Sep2025 21:53:55.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
 [04Sep2025 21:53:58.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3468ms or 69 ticks behind
 [04Sep2025 21:55:31.395] [Worker-Main-1/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[04Sep2025 22:15:34.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2090, y=25, z=-1197} BlockPos{x=2093, y=27, z=-1197}
+[04Sep2025 22:16:45.965] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2095, y=27, z=-1196} BlockPos{x=2036, y=22, z=-1215}
