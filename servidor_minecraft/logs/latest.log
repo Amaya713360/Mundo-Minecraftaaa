@@ -105,3 +105,13 @@
 [04Sep2025 01:07:32.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/56429, l='ServerLevel[world]', x=-88.74, y=-20.00, z=-671.98] died: Toxic Slime was killed
 [04Sep2025 01:08:15.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/56718, l='ServerLevel[world]', x=129.78, y=-20.00, z=141.71] died: Toxic Slime was killed
 [04Sep2025 01:08:21.771] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/56883, l='ServerLevel[world]', x=100.44, y=32.89, z=85.26] died: 1$s has perished from holy damage
+[04Sep2025 01:09:22.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/57099, l='ServerLevel[world]', x=87.26, y=-20.00, z=88.26] died: Toxic Slime was killed
+[04Sep2025 01:09:25.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/57116, l='ServerLevel[world]', x=105.26, y=-20.00, z=94.26] died: Toxic Slime was killed
+[04Sep2025 01:10:09.488] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/57394, l='ServerLevel[world]', x=130.73, y=-20.00, z=134.29] died: Toxic Slime was killed
+[04Sep2025 01:10:25.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo lost connection: Disconnected
+[04Sep2025 01:10:25.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo left the game
+[04Sep2025 01:10:45.770] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:34863] logged in with entity id 58364 at (86.35877914041512, 67.0, 115.46608690398988)
+[04Sep2025 01:10:45.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
+[04Sep2025 01:11:04.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/58419, l='ServerLevel[world]', x=103.73, y=-20.00, z=54.00] died: Toxic Slime was killed
+[04Sep2025 01:11:11.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/58429, l='ServerLevel[world]', x=188.26, y=-20.00, z=117.74] died: Toxic Slime was killed
+[04Sep2025 01:11:49.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported caver to facuuundooo
