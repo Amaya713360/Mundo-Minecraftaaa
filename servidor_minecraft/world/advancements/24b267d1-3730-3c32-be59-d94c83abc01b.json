@@ -4732,6 +4732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-09-04 01:02:39 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-09-04 00:51:14 +0000"
@@ -4741,6 +4747,12 @@
   "refurbished_furniture:recipes/misc/constructing/door_mat": {
     "criteria": {
       "has_wheat": "2025-09-04 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-09-04 01:02:39 +0000"
     },
     "done": true
   },

@@ -71,3 +71,37 @@
 [04Sep2025 00:58:39.605] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53821, l='ServerLevel[world]', x=139.19, y=33.00, z=124.59] died: 1$s has perished from holy damage
 [04Sep2025 00:58:41.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53549, l='ServerLevel[world]', x=139.20, y=32.86, z=123.23] died: 1$s has perished from holy damage
 [04Sep2025 00:58:42.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53459, l='ServerLevel[world]', x=140.20, y=33.26, z=122.74] died: 1$s has perished from holy damage
+[04Sep2025 00:58:54.729] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54108, l='ServerLevel[world]', x=138.18, y=33.00, z=124.34] died: 1$s has perished from holy damage
+[04Sep2025 00:59:36.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has reached the goal [Pocket Edition Alpha]
+[04Sep2025 00:59:43.951] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54252, l='ServerLevel[world]', x=129.82, y=32.84, z=137.66] died: 1$s has perished from holy damage
+[04Sep2025 00:59:54.488] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53480, l='ServerLevel[world]', x=185.26, y=-20.00, z=129.26] died: Toxic Slime was killed
+[04Sep2025 01:00:42.827] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53949, l='ServerLevel[world]', x=125.74, y=33.59, z=131.74] died: 1$s has perished from holy damage
+[04Sep2025 01:00:54.488] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53983, l='ServerLevel[world]', x=174.03, y=-20.00, z=141.85] died: Toxic Slime was killed
+[04Sep2025 01:01:12.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54095, l='ServerLevel[world]', x=180.71, y=-20.00, z=139.14] died: Toxic Slime was killed
+[04Sep2025 01:01:12.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54099, l='ServerLevel[world]', x=161.10, y=-20.00, z=207.26] died: Toxic Slime was killed
+[04Sep2025 01:01:19.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54161, l='ServerLevel[world]', x=-62.26, y=-20.00, z=-572.74] died: Toxic Slime was killed
+[04Sep2025 01:01:29.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54237, l='ServerLevel[world]', x=122.03, y=-20.00, z=89.08] died: Toxic Slime was killed
+[04Sep2025 01:01:32.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54253, l='ServerLevel[world]', x=105.66, y=-20.00, z=121.26] died: Toxic Slime was killed
+[04Sep2025 01:02:04.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54444, l='ServerLevel[world]', x=180.71, y=-20.00, z=139.58] died: Toxic Slime was killed
+[04Sep2025 01:02:11.491] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54476, l='ServerLevel[world]', x=103.47, y=-20.00, z=136.40] died: Toxic Slime was killed
+[04Sep2025 01:02:59.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Sep2025 01:02:59.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: giva facuuundooo bow<--[HERE]
+[04Sep2025 01:03:02.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54779, l='ServerLevel[world]', x=84.74, y=-20.00, z=122.26] died: Toxic Slime was killed
+[04Sep2025 01:03:29.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54960, l='ServerLevel[world]', x=156.22, y=-20.00, z=200.17] died: Toxic Slime was killed
+[04Sep2025 01:03:52.488] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/55078, l='ServerLevel[world]', x=138.22, y=-20.00, z=52.93] died: Toxic Slime was killed
+[04Sep2025 01:04:20.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set facuuundooo's game mode to Creative Mode
+[04Sep2025 01:04:25.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/55298, l='ServerLevel[world]', x=98.63, y=-20.00, z=107.87] died: Toxic Slime was killed
+[04Sep2025 01:05:23.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A player is required to run this command here
+[04Sep2025 01:05:37.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/55721, l='ServerLevel[world]', x=102.26, y=-20.00, z=150.74] died: Toxic Slime was killed
+[04Sep2025 01:05:39.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set facuuundooo's game mode to Survival Mode
+[04Sep2025 01:05:44.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/55775, l='ServerLevel[world]', x=80.74, y=-20.00, z=124.58] died: Toxic Slime was killed
+[04Sep2025 01:05:49.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Take Aim]
+[04Sep2025 01:06:10.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/55980, l='ServerLevel[world]', x=-78.12, y=-20.00, z=-573.24] died: Toxic Slime was killed
+[04Sep2025 01:06:36.903] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ghast['Ghast Sentry'/53100, l='ServerLevel[world]', x=108.41, y=46.00, z=116.59] died: Ghast Sentry was shot by facuuundooo
+[04Sep2025 01:06:41.773] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/56185, l='ServerLevel[world]', x=89.26, y=33.64, z=145.31] died: 1$s has perished from holy damage
+[04Sep2025 01:07:14.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/56342, l='ServerLevel[world]', x=122.74, y=-20.00, z=147.74] died: Toxic Slime was killed
+[04Sep2025 01:07:19.488] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/56366, l='ServerLevel[world]', x=86.35, y=-20.00, z=135.85] died: Toxic Slime was killed
+[04Sep2025 01:07:21.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/56372, l='ServerLevel[world]', x=102.26, y=-20.00, z=150.74] died: Toxic Slime was killed
+[04Sep2025 01:07:32.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/56429, l='ServerLevel[world]', x=-88.74, y=-20.00, z=-671.98] died: Toxic Slime was killed
+[04Sep2025 01:08:15.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/56718, l='ServerLevel[world]', x=129.78, y=-20.00, z=141.71] died: Toxic Slime was killed
+[04Sep2025 01:08:21.771] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/56883, l='ServerLevel[world]', x=100.44, y=32.89, z=85.26] died: 1$s has perished from holy damage
