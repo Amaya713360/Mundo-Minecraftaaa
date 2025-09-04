@@ -4776,6 +4776,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-09-04 19:12:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-09-04 19:08:50 +0000"
@@ -4785,6 +4791,12 @@
   "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
       "location0": "2025-09-04 18:40:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-09-04 19:12:22 +0000"
     },
     "done": true
   },
@@ -4851,6 +4863,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-09-04 19:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-09-04 19:12:22 +0000"
     },
     "done": true
   },
