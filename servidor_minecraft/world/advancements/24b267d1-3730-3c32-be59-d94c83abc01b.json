@@ -1143,6 +1143,7 @@
       "minecraft:blaze": "2025-08-31 19:16:00 +0000",
       "minecraft:pillager": "2025-09-03 23:50:41 +0000",
       "minecraft:skeleton": "2025-08-25 19:52:10 +0000",
+      "minecraft:hoglin": "2025-09-04 18:41:53 +0000",
       "minecraft:guardian": "2025-09-03 20:25:10 +0000",
       "minecraft:vindicator": "2025-09-03 20:21:52 +0000",
       "minecraft:spider": "2025-08-25 19:52:02 +0000",
@@ -4769,6 +4770,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-09-04 18:46:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-09-04 18:40:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-09-04 18:27:02 +0000"
@@ -4778,6 +4791,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-09-04 18:28:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-09-04 18:46:39 +0000"
     },
     "done": true
   },

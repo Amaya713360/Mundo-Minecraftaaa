@@ -3389,3 +3389,44 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [04Sep2025 18:34:41.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Sep2025 18:35:05.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Ender Distancing]
 [04Sep2025 18:35:06.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Capsid-19]
+[04Sep2025 18:39:41.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 18:39:41.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 18:39:45.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [The City at the End of the Game]
+[04Sep2025 18:40:31.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [Ghost Riders In The Sky]
+[04Sep2025 18:42:37.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was shot by Wither Skeleton
+[04Sep2025 18:42:37.715] [Server thread/DEBUG] [tombstone/]: A new grave of the player caver was created at position [x:1014, y:217, z:79, dim:minecraft:the_end]
+[04Sep2025 18:42:37.735] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[04Sep2025 18:42:39.546] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1757011359530
+[04Sep2025 18:44:40.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has reached the goal [Postmortal]
+[04Sep2025 18:44:40.376] [Server thread/INFO] [tombstone/]: The player facuuundooo has successfully been saved
+[04Sep2025 18:44:41.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 18:44:41.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 18:45:11.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Race Against The Clock]
+[04Sep2025 18:45:47.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was blown up by Creeper
+[04Sep2025 18:45:47.310] [Server thread/DEBUG] [tombstone/]: A new grave of the player caver was created at position [x:826, y:88, z:-884, dim:minecraft:overworld]
+[04Sep2025 18:45:47.322] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[04Sep2025 18:45:48.814] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1757011548814
+[04Sep2025 18:46:52.271] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1757011612232
+[04Sep2025 18:47:24.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver withered away
+[04Sep2025 18:47:25.040] [Server thread/DEBUG] [tombstone/]: A new grave of the player caver was created at position [x:1030, y:226, z:79, dim:minecraft:the_end]
+[04Sep2025 18:47:25.041] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[04Sep2025 18:47:26.946] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1757011646921
+[04Sep2025 18:47:48.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has reached the goal [Sky's the Limit]
+[04Sep2025 18:49:24.020] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1474, y=19, z=299}
+[04Sep2025 18:49:24.022] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1475, y=17, z=299}
+[04Sep2025 18:49:24.022] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1477, y=19, z=299}
+[04Sep2025 18:49:24.022] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1482, y=17, z=299}
+[04Sep2025 18:49:24.023] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1481, y=17, z=299}
+[04Sep2025 18:49:24.023] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=301}
+[04Sep2025 18:49:24.024] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=309}
+[04Sep2025 18:49:24.024] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=19, z=306}
+[04Sep2025 18:49:24.024] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=305}
+[04Sep2025 18:49:41.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 18:49:41.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 18:49:42.002] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=18, z=314}
+[04Sep2025 18:49:42.003] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=17, z=317}
+[04Sep2025 18:49:42.005] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=16, z=316}
+[04Sep2025 18:49:42.005] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1466, y=18, z=323}
+[04Sep2025 18:49:42.006] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1467, y=16, z=323}
+[04Sep2025 18:49:42.007] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1460, y=16, z=323}
+[04Sep2025 18:49:42.008] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=17, z=321}
