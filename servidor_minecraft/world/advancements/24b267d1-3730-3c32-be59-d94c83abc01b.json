@@ -25,6 +25,7 @@
       "minecraft:ocean": "2025-08-25 19:47:18 +0000",
       "minecraft:windswept_savanna": "2025-08-25 19:45:54 +0000",
       "minecraft:flower_forest": "2025-08-25 19:07:49 +0000",
+      "minecraft:deep_dark": "2025-09-04 18:27:02 +0000",
       "minecraft:meadow": "2025-08-27 19:29:25 +0000",
       "minecraft:savanna": "2025-08-26 19:16:20 +0000",
       "minecraft:plains": "2025-08-25 00:20:02 +0000"
@@ -4690,84 +4691,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-04 01:21:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-04 01:21:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-04 01:21:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-04 01:21:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-04 01:21:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-04 01:21:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-04 01:21:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-04 01:21:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-04 01:21:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-04 01:21:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-04 01:21:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-04 01:21:49 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:basalt_deltas": "2025-09-04 00:46:38 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2025-09-04 00:40:26 +0000"
@@ -4786,9 +4709,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-09-04 00:40:26 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed_by": "2025-09-04 00:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-09-04 00:46:38 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-09-04 00:51:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-09-04 00:53:25 +0000"
     },
     "done": true
   },
@@ -4810,15 +4757,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/chain_death": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "coded_trigger": "2025-09-04 00:51:14 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/door_mat": {
-    "criteria": {
-      "has_wheat": "2025-09-04 00:40:26 +0000"
+      "has_brown_mushroom": "2025-09-04 01:02:39 +0000"
     },
     "done": true
   },
@@ -4828,15 +4769,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "minecraft:story/follow_ender_eye": {
     "criteria": {
-      "has_brown_mushroom": "2025-09-04 01:02:39 +0000"
+      "in_stronghold": "2025-09-04 18:27:02 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/enchant_grave_key": {
+  "minecraft:story/enter_the_end": {
     "criteria": {
-      "has_upgraded_grave_key": "2025-09-04 00:53:25 +0000"
+      "entered_end": "2025-09-04 18:28:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-09-04 18:28:19 +0000"
     },
     "done": true
   },

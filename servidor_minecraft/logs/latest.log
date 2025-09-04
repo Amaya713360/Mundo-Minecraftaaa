@@ -1,123 +1,255 @@
-[04Sep2025 00:02:16.610] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1626, y=39, z=-2474} BlockPos{x=1580, y=42, z=-2436}
-[04Sep2025 00:05:40.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo lost connection: Disconnected
-[04Sep2025 00:05:40.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo left the game
-[04Sep2025 00:22:11.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver burned to death
-[04Sep2025 00:22:11.344] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
-[04Sep2025 00:26:16.757] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:53875] logged in with entity id 39717 at (2176.2813988074086, 100.0, -2711.882580905193)
-[04Sep2025 00:26:16.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
-[04Sep2025 00:26:34.118] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-13, z=-248}
-[04Sep2025 00:26:34.160] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-12, z=-241}
-[04Sep2025 00:26:34.161] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-12, z=-242}
-[04Sep2025 00:26:37.401] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=559, y=-26, z=-250}
-[04Sep2025 00:26:37.401] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-26, z=-248}
-[04Sep2025 00:26:37.402] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-12, z=-248}
-[04Sep2025 00:26:37.402] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-12, z=-249}
-[04Sep2025 00:26:37.494] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=562, y=-26, z=-242}
-[04Sep2025 00:26:37.494] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=562, y=-12, z=-242}
-[04Sep2025 00:26:37.494] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-13, z=-242}
-[04Sep2025 00:31:33.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Disconnected
-[04Sep2025 00:31:33.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
-[04Sep2025 00:35:53.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:48715] logged in with entity id 42585 at (724.6999999880791, 75.0, -704.3482061226221)
-[04Sep2025 00:35:53.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
-[04Sep2025 00:39:06.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=743, y=97, z=-696} BlockPos{x=743, y=96, z=-696}
-[04Sep2025 00:39:10.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=748, y=92, z=-696} BlockPos{x=748, y=93, z=-696}
-[04Sep2025 00:39:10.398] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=748, y=92, z=-696} BlockPos{x=748, y=93, z=-696}
-[04Sep2025 00:42:36.415] [Worker-Main-1/INFO] [citadel/]: vanilla surface rule behavior unchanged
-[04Sep2025 00:42:38.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5671ms or 113 ticks behind
-[04Sep2025 00:42:38.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver moved too quickly! 6.965859862587081,4.384820761176158,5.795241158899216
-[04Sep2025 00:44:45.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Radioactive]
-[04Sep2025 00:45:20.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [Straddle My Ol' Saddle]
-[04Sep2025 00:45:32.194] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/47331, l='ServerLevel[world]', x=295.73, y=34.00, z=-206.62] died: Pipeline Sentry suffocated in a wall
-[04Sep2025 00:46:01.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Toxic Personality]
-[04Sep2025 00:46:52.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [A Terrible Fortress]
-[04Sep2025 00:48:34.553] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49197, l='ServerLevel[world]', x=239.46, y=60.00, z=44.31] died: 1$s has perished from holy damage
-[04Sep2025 00:48:40.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/48103, l='ServerLevel[world]', x=268.72, y=-20.00, z=27.76] died: Toxic Slime was killed
-[04Sep2025 00:48:59.802] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49422, l='ServerLevel[world]', x=310.94, y=60.00, z=41.78] died: 1$s has perished from holy damage
-[04Sep2025 00:50:24.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was doomed to fall by Straddler
-[04Sep2025 00:50:24.223] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
-[04Sep2025 00:50:36.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49178, l='ServerLevel[world]', x=389.05, y=-20.00, z=33.88] died: Toxic Slime was killed
-[04Sep2025 00:51:09.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49436, l='ServerLevel[world]', x=299.26, y=-20.00, z=60.97] died: Toxic Slime was killed
-[04Sep2025 00:51:09.789] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49437, l='ServerLevel[world]', x=401.60, y=-20.00, z=47.47] died: Toxic Slime was killed
-[04Sep2025 00:51:14.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has reached the goal [Chain Death]
-[04Sep2025 00:51:14.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver discovered the floor was lava
-[04Sep2025 00:51:14.855] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
-[04Sep2025 00:51:18.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49505, l='ServerLevel[world]', x=336.26, y=-20.00, z=56.74] died: Toxic Slime was killed
-[04Sep2025 00:51:23.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49526, l='ServerLevel[world]', x=395.33, y=-20.00, z=27.51] died: Toxic Slime was killed
-[04Sep2025 00:51:36.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49584, l='ServerLevel[world]', x=339.74, y=-20.00, z=49.26] died: Toxic Slime was killed
-[04Sep2025 00:51:38.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49611, l='ServerLevel[world]', x=333.25, y=-20.00, z=54.49] died: Toxic Slime was killed
-[04Sep2025 00:51:39.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49614, l='ServerLevel[world]', x=338.26, y=-20.00, z=52.26] died: Toxic Slime was killed
-[04Sep2025 00:52:13.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49869, l='ServerLevel[world]', x=338.80, y=-20.00, z=88.74] died: Toxic Slime was killed
-[04Sep2025 00:52:42.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/50052, l='ServerLevel[world]', x=300.26, y=-20.00, z=79.08] died: Toxic Slime was killed
-[04Sep2025 00:52:57.789] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/50498, l='ServerLevel[world]', x=383.81, y=-20.00, z=75.51] died: Toxic Slime was killed
-[04Sep2025 00:53:16.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/50635, l='ServerLevel[world]', x=321.79, y=-20.00, z=74.74] died: Toxic Slime was killed
-[04Sep2025 00:53:21.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/50679, l='ServerLevel[world]', x=411.13, y=-20.00, z=116.14] died: Toxic Slime was killed
-[04Sep2025 00:53:25.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [The Most Useful Key]
-[04Sep2025 00:53:30.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/50820, l='ServerLevel[world]', x=115.63, y=-20.00, z=8.85] died: Toxic Slime was killed
-[04Sep2025 00:53:32.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has reached the goal [A Fast Comeback]
-[04Sep2025 00:53:34.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2701ms or 54 ticks behind
-[04Sep2025 00:53:44.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=313, y=62, z=57} BlockPos{x=314, y=62, z=57}
-[04Sep2025 00:54:03.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo lost connection: Disconnected
-[04Sep2025 00:54:03.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo left the game
-[04Sep2025 00:54:12.016] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:59557] logged in with entity id 52306 at (312.0717527465634, 61.0, 85.96022306013748)
-[04Sep2025 00:54:12.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
-[04Sep2025 00:54:34.759] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo lost connection: Disconnected
-[04Sep2025 00:54:34.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo left the game
-[04Sep2025 00:55:01.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [A Terrible Fortress]
-[04Sep2025 00:56:44.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:41263] logged in with entity id 53045 at (289.7595040757876, 60.0, 44.23234036402416)
-[04Sep2025 00:56:44.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
-[04Sep2025 00:57:55.905] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53458, l='ServerLevel[world]', x=144.70, y=33.00, z=134.19] died: 1$s has perished from holy damage
-[04Sep2025 00:58:15.405] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53688, l='ServerLevel[world]', x=143.22, y=32.00, z=126.48] died: 1$s has perished from holy damage
-[04Sep2025 00:58:38.404] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53820, l='ServerLevel[world]', x=138.29, y=32.89, z=125.97] died: 1$s has perished from holy damage
-[04Sep2025 00:58:39.605] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53821, l='ServerLevel[world]', x=139.19, y=33.00, z=124.59] died: 1$s has perished from holy damage
-[04Sep2025 00:58:41.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53549, l='ServerLevel[world]', x=139.20, y=32.86, z=123.23] died: 1$s has perished from holy damage
-[04Sep2025 00:58:42.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53459, l='ServerLevel[world]', x=140.20, y=33.26, z=122.74] died: 1$s has perished from holy damage
-[04Sep2025 00:58:54.729] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54108, l='ServerLevel[world]', x=138.18, y=33.00, z=124.34] died: 1$s has perished from holy damage
-[04Sep2025 00:59:36.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has reached the goal [Pocket Edition Alpha]
-[04Sep2025 00:59:43.951] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54252, l='ServerLevel[world]', x=129.82, y=32.84, z=137.66] died: 1$s has perished from holy damage
-[04Sep2025 00:59:54.488] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53480, l='ServerLevel[world]', x=185.26, y=-20.00, z=129.26] died: Toxic Slime was killed
-[04Sep2025 01:00:42.827] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53949, l='ServerLevel[world]', x=125.74, y=33.59, z=131.74] died: 1$s has perished from holy damage
-[04Sep2025 01:00:54.488] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53983, l='ServerLevel[world]', x=174.03, y=-20.00, z=141.85] died: Toxic Slime was killed
-[04Sep2025 01:01:12.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54095, l='ServerLevel[world]', x=180.71, y=-20.00, z=139.14] died: Toxic Slime was killed
-[04Sep2025 01:01:12.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54099, l='ServerLevel[world]', x=161.10, y=-20.00, z=207.26] died: Toxic Slime was killed
-[04Sep2025 01:01:19.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54161, l='ServerLevel[world]', x=-62.26, y=-20.00, z=-572.74] died: Toxic Slime was killed
-[04Sep2025 01:01:29.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54237, l='ServerLevel[world]', x=122.03, y=-20.00, z=89.08] died: Toxic Slime was killed
-[04Sep2025 01:01:32.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54253, l='ServerLevel[world]', x=105.66, y=-20.00, z=121.26] died: Toxic Slime was killed
-[04Sep2025 01:02:04.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54444, l='ServerLevel[world]', x=180.71, y=-20.00, z=139.58] died: Toxic Slime was killed
-[04Sep2025 01:02:11.491] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54476, l='ServerLevel[world]', x=103.47, y=-20.00, z=136.40] died: Toxic Slime was killed
-[04Sep2025 01:02:59.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[04Sep2025 01:02:59.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: giva facuuundooo bow<--[HERE]
-[04Sep2025 01:03:02.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54779, l='ServerLevel[world]', x=84.74, y=-20.00, z=122.26] died: Toxic Slime was killed
-[04Sep2025 01:03:29.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/54960, l='ServerLevel[world]', x=156.22, y=-20.00, z=200.17] died: Toxic Slime was killed
-[04Sep2025 01:03:52.488] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/55078, l='ServerLevel[world]', x=138.22, y=-20.00, z=52.93] died: Toxic Slime was killed
-[04Sep2025 01:04:20.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set facuuundooo's game mode to Creative Mode
-[04Sep2025 01:04:25.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/55298, l='ServerLevel[world]', x=98.63, y=-20.00, z=107.87] died: Toxic Slime was killed
-[04Sep2025 01:05:23.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A player is required to run this command here
-[04Sep2025 01:05:37.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/55721, l='ServerLevel[world]', x=102.26, y=-20.00, z=150.74] died: Toxic Slime was killed
-[04Sep2025 01:05:39.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set facuuundooo's game mode to Survival Mode
-[04Sep2025 01:05:44.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/55775, l='ServerLevel[world]', x=80.74, y=-20.00, z=124.58] died: Toxic Slime was killed
-[04Sep2025 01:05:49.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Take Aim]
-[04Sep2025 01:06:10.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/55980, l='ServerLevel[world]', x=-78.12, y=-20.00, z=-573.24] died: Toxic Slime was killed
-[04Sep2025 01:06:36.903] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ghast['Ghast Sentry'/53100, l='ServerLevel[world]', x=108.41, y=46.00, z=116.59] died: Ghast Sentry was shot by facuuundooo
-[04Sep2025 01:06:41.773] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/56185, l='ServerLevel[world]', x=89.26, y=33.64, z=145.31] died: 1$s has perished from holy damage
-[04Sep2025 01:07:14.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/56342, l='ServerLevel[world]', x=122.74, y=-20.00, z=147.74] died: Toxic Slime was killed
-[04Sep2025 01:07:19.488] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/56366, l='ServerLevel[world]', x=86.35, y=-20.00, z=135.85] died: Toxic Slime was killed
-[04Sep2025 01:07:21.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/56372, l='ServerLevel[world]', x=102.26, y=-20.00, z=150.74] died: Toxic Slime was killed
-[04Sep2025 01:07:32.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/56429, l='ServerLevel[world]', x=-88.74, y=-20.00, z=-671.98] died: Toxic Slime was killed
-[04Sep2025 01:08:15.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/56718, l='ServerLevel[world]', x=129.78, y=-20.00, z=141.71] died: Toxic Slime was killed
-[04Sep2025 01:08:21.771] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/56883, l='ServerLevel[world]', x=100.44, y=32.89, z=85.26] died: 1$s has perished from holy damage
-[04Sep2025 01:09:22.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/57099, l='ServerLevel[world]', x=87.26, y=-20.00, z=88.26] died: Toxic Slime was killed
-[04Sep2025 01:09:25.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/57116, l='ServerLevel[world]', x=105.26, y=-20.00, z=94.26] died: Toxic Slime was killed
-[04Sep2025 01:10:09.488] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/57394, l='ServerLevel[world]', x=130.73, y=-20.00, z=134.29] died: Toxic Slime was killed
-[04Sep2025 01:10:25.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo lost connection: Disconnected
-[04Sep2025 01:10:25.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo left the game
-[04Sep2025 01:10:45.770] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:34863] logged in with entity id 58364 at (86.35877914041512, 67.0, 115.46608690398988)
-[04Sep2025 01:10:45.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
-[04Sep2025 01:11:04.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/58419, l='ServerLevel[world]', x=103.73, y=-20.00, z=54.00] died: Toxic Slime was killed
-[04Sep2025 01:11:11.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/58429, l='ServerLevel[world]', x=188.26, y=-20.00, z=117.74] died: Toxic Slime was killed
-[04Sep2025 01:11:49.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported caver to facuuundooo
-[04Sep2025 01:22:24.000] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Disconnected
-[04Sep2025 01:22:24.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
-[04Sep2025 01:25:56.549] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/61834, l='ServerLevel[world]', x=1502.50, y=125.00, z=-560.30] died, message: 'Villager was slain by Cherry Zombie'
-[04Sep2025 01:31:19.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Eye Spy]
-[04Sep2025 01:36:29.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set facuuundooo's game mode to Spectator Mode
-[04Sep2025 01:37:28.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set facuuundooo's game mode to Survival Mode
+[04Sep2025 18:18:37.008] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[04Sep2025 18:18:37.013] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[04Sep2025 18:18:37.661] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[04Sep2025 18:18:37.671] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[04Sep2025 18:18:37.672] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/Mundo-Minecraftaaa/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23135!/
+[04Sep2025 18:18:37.682] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/Mundo-Minecraftaaa/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
+[04Sep2025 18:18:37.684] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[04Sep2025 18:18:37.745] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Mundo-Minecraftaaa/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[04Sep2025 18:18:37.755] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[04Sep2025 18:18:38.134] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo-Minecraftaaa/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[04Sep2025 18:18:38.135] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo-Minecraftaaa/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04Sep2025 18:18:38.136] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo-Minecraftaaa/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04Sep2025 18:18:38.138] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo-Minecraftaaa/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04Sep2025 18:18:38.534] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[04Sep2025 18:18:38.536] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[04Sep2025 18:18:39.144] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[04Sep2025 18:18:39.155] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[04Sep2025 18:18:39.841] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[04Sep2025 18:18:40.997] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[04Sep2025 18:18:41.141] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[04Sep2025 18:18:41.143] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[04Sep2025 18:18:41.148] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[04Sep2025 18:18:42.934] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[04Sep2025 18:18:47.729] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zep000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[04Sep2025 18:18:49.353] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[04Sep2025 18:18:49.355] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[04Sep2025 18:18:49.360] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[04Sep2025 18:18:49.361] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[04Sep2025 18:18:49.364] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[04Sep2025 18:18:49.367] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[04Sep2025 18:18:49.369] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[04Sep2025 18:18:49.371] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[04Sep2025 18:18:49.648] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[04Sep2025 18:18:50.275] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[04Sep2025 18:18:50.275] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[04Sep2025 18:18:50.277] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[04Sep2025 18:18:50.555] [modloading-worker-0/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
+[04Sep2025 18:18:50.566] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 1 plugins
+[04Sep2025 18:18:54.309] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:savanna_zombie] was not realized!
+[04Sep2025 18:18:54.309] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:badlands_zombie] was not realized!
+[04Sep2025 18:18:54.309] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:swamp_zombie] was not realized!
+[04Sep2025 18:18:54.309] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:bamboo_zombie] was not realized!
+[04Sep2025 18:18:54.309] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:cherry_zombie] was not realized!
+[04Sep2025 18:18:54.309] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:mangrove_zombie] was not realized!
+[04Sep2025 18:18:54.310] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:jungle_zombie] was not realized!
+[04Sep2025 18:18:54.310] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:frozen_zombie] was not realized!
+[04Sep2025 18:18:54.310] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:cave_zombie] was not realized!
+[04Sep2025 18:18:54.310] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:mushroom_zombie] was not realized!
+[04Sep2025 18:18:54.310] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:dripstone_zombie] was not realized!
+[04Sep2025 18:18:54.311] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:pale_garden_zombie] was not realized!
+[04Sep2025 18:18:54.311] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:deep_dark_zombie] was not realized!
+[04Sep2025 18:18:54.311] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:desert_zombie] was not realized!
+[04Sep2025 18:18:54.311] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:lush_zombie] was not realized!
+[04Sep2025 18:18:55.001] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[04Sep2025 18:18:55.103] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 136 crops
+[04Sep2025 18:18:55.103] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 6 crop tiers
+[04Sep2025 18:18:55.103] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 2 crop types
+[04Sep2025 18:18:55.103] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 55 augments
+[04Sep2025 18:18:55.103] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 20 mob soul types
+[04Sep2025 18:18:55.378] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
+[04Sep2025 18:18:56.016] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[04Sep2025 18:18:56.016] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[04Sep2025 18:18:56.016] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[04Sep2025 18:18:56.016] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[04Sep2025 18:18:56.017] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[04Sep2025 18:18:56.017] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[04Sep2025 18:18:56.017] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[04Sep2025 18:18:56.017] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[04Sep2025 18:18:56.017] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
+[04Sep2025 18:18:56.029] [main/INFO] [journeymap/]: Initializing Packet Registries
+[04Sep2025 18:18:56.355] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: AHEAD Current: 1.20.1-1.0.18 Target: null
+[04Sep2025 18:18:56.357] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
+[04Sep2025 18:18:56.362] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[04Sep2025 18:18:56.505] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
+[04Sep2025 18:18:56.506] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[04Sep2025 18:18:57.084] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[04Sep2025 18:18:57.085] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[04Sep2025 18:18:57.672] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[04Sep2025 18:18:57.672] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[04Sep2025 18:18:57.686] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 9.0.8 Target: 9.0.9
+[04Sep2025 18:18:57.686] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[04Sep2025 18:18:58.359] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[04Sep2025 18:18:59.565] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04Sep2025 18:18:59.842] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: elevatorid:elevator_white Expected: 1934 Got: 2649
+[04Sep2025 18:18:59.843] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: elevatorid:elevator_orange Expected: 1935 Got: 2650
+[04Sep2025 18:18:59.843] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: elevatorid:elevator_magenta Expected: 1936 Got: 2651
+[04Sep2025 18:18:59.843] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: elevatorid:elevator_light_blue Expected: 1937 Got: 2652
+[04Sep2025 18:18:59.844] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: elevatorid:elevator_yellow Expected: 1938 Got: 2653
+[04Sep2025 18:18:59.844] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: elevatorid:elevator_lime Expected: 1939 Got: 2654
+[04Sep2025 18:18:59.844] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: elevatorid:elevator_pink Expected: 1940 Got: 2655
+[04Sep2025 18:18:59.845] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: elevatorid:elevator_gray Expected: 1941 Got: 2656
+[04Sep2025 18:18:59.845] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: elevatorid:elevator_light_gray Expected: 1942 Got: 2657
+[04Sep2025 18:18:59.845] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: elevatorid:elevator_cyan Expected: 1943 Got: 2658
+[04Sep2025 18:18:59.845] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: elevatorid:elevator_purple Expected: 1944 Got: 2659
+[04Sep2025 18:18:59.846] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: elevatorid:elevator_blue Expected: 1945 Got: 2660
+[04Sep2025 18:18:59.846] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: elevatorid:elevator_brown Expected: 1946 Got: 2661
+[04Sep2025 18:18:59.846] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: elevatorid:elevator_green Expected: 1947 Got: 2662
+[04Sep2025 18:18:59.846] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: elevatorid:elevator_red Expected: 1948 Got: 2663
+[04Sep2025 18:18:59.847] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: elevatorid:elevator_black Expected: 1949 Got: 2664
+[04Sep2025 18:18:59.848] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: elevatorid:elevator_white Expected: 2501 Got: 3745
+[04Sep2025 18:18:59.849] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: elevatorid:elevator_orange Expected: 2502 Got: 3746
+[04Sep2025 18:18:59.849] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: elevatorid:elevator_magenta Expected: 2503 Got: 3747
+[04Sep2025 18:18:59.850] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: elevatorid:elevator_light_blue Expected: 2504 Got: 3748
+[04Sep2025 18:18:59.850] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: elevatorid:elevator_yellow Expected: 2505 Got: 3749
+[04Sep2025 18:18:59.851] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: elevatorid:elevator_lime Expected: 2506 Got: 3750
+[04Sep2025 18:18:59.851] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: elevatorid:elevator_pink Expected: 2507 Got: 3751
+[04Sep2025 18:18:59.851] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: elevatorid:elevator_gray Expected: 2508 Got: 3752
+[04Sep2025 18:18:59.851] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: elevatorid:elevator_light_gray Expected: 2509 Got: 3753
+[04Sep2025 18:18:59.851] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: elevatorid:elevator_cyan Expected: 2510 Got: 3754
+[04Sep2025 18:18:59.852] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: elevatorid:elevator_purple Expected: 2511 Got: 3755
+[04Sep2025 18:18:59.852] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: elevatorid:elevator_blue Expected: 2512 Got: 3756
+[04Sep2025 18:18:59.852] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: elevatorid:elevator_brown Expected: 2513 Got: 3757
+[04Sep2025 18:18:59.852] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: elevatorid:elevator_green Expected: 2514 Got: 3758
+[04Sep2025 18:18:59.852] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: elevatorid:elevator_red Expected: 2515 Got: 3759
+[04Sep2025 18:18:59.852] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: elevatorid:elevator_black Expected: 2516 Got: 3760
+[04Sep2025 18:18:59.853] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: elevatorid:teleport Expected: 1723 Got: 1789
+[04Sep2025 18:18:59.853] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: elevatorid:camouflage Expected: 1724 Got: 1790
+[04Sep2025 18:19:01.865] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Mundo-Minecraftaaa/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/assets/.mcassetsroot' uses unexpected schema
+[04Sep2025 18:19:01.866] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Mundo-Minecraftaaa/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/data/.mcassetsroot' uses unexpected schema
+[04Sep2025 18:19:11.429] [main/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/Mundo-Minecraftaaa/servidor_minecraft/tacz
+[04Sep2025 18:19:11.431] [main/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
+[04Sep2025 18:19:11.431] [main/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
+[04Sep2025 18:19:13.612] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[04Sep2025 18:19:13.685] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-9.0.8.jar
+[04Sep2025 18:19:14.434] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:ati_structures:chests/archer_chest
+com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:149) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23176!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23176!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[04Sep2025 18:19:14.791] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[1]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[04Sep2025 18:19:14.791] [main/INFO] [Cucumber Library/]: Registered 0 recipes in 0 ms
+[04Sep2025 18:19:14.918] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
+[04Sep2025 18:19:15.056] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3463 advancements
+[04Sep2025 18:19:15.066] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[04Sep2025 18:19:15.072] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[04Sep2025 18:19:15.181] [main/INFO] [Dungeon Crawl/]: Loading data...
+[04Sep2025 18:19:15.475] [main/INFO] [Dungeon Crawl/]: Done.
+[04Sep2025 18:19:17.546] [main/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 3 ms
+[04Sep2025 18:19:17.548] [main/INFO] [Mystical Agriculture/]: Recipe ingredient caching done in 1 ms
+[04Sep2025 18:19:17.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[04Sep2025 18:19:17.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[04Sep2025 18:19:17.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[04Sep2025 18:19:17.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[04Sep2025 18:19:17.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[04Sep2025 18:19:17.912] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[04Sep2025 18:19:18.009] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04Sep2025 18:19:18.009] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[04Sep2025 18:19:18.010] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04Sep2025 18:19:18.010] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[04Sep2025 18:19:18.030] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[04Sep2025 18:19:18.031] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[04Sep2025 18:19:18.033] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[04Sep2025 18:19:18.037] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/elevatorid-server.toml is not correct. Correcting
+[04Sep2025 18:19:18.038] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General was corrected from null to its default, SimpleCommentedConfig:{}. 
+[04Sep2025 18:19:18.038] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.sameColor was corrected from null to its default, false. 
+[04Sep2025 18:19:18.038] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.range was corrected from null to its default, 384. 
+[04Sep2025 18:19:18.039] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.precisionTarget was corrected from null to its default, true. 
+[04Sep2025 18:19:18.039] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.mobSpawn was corrected from null to its default, false. 
+[04Sep2025 18:19:18.039] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.resetPitchNormal was corrected from null to its default, false. 
+[04Sep2025 18:19:18.039] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.resetPitchDirectional was corrected from null to its default, true. 
+[04Sep2025 18:19:18.040] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.useXP was corrected from null to its default, false. 
+[04Sep2025 18:19:18.040] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.XPPointsAmount was corrected from null to its default, 1. 
+[04Sep2025 18:19:18.415] [Server thread/INFO] [Framework/]: Loading server configs...
+[04Sep2025 18:19:18.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[04Sep2025 18:19:22.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[04Sep2025 18:19:23.448] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Sep2025 18:19:24.318] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Sep2025 18:19:24.342] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Sep2025 18:19:24.353] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Sep2025 18:19:24.364] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Sep2025 18:19:24.369] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Sep2025 18:19:24.777] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Sep2025 18:19:25.294] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Sep2025 18:19:25.833] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Sep2025 18:19:26.277] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Sep2025 18:19:26.776] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Sep2025 18:19:27.276] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[04Sep2025 18:19:27.776] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[04Sep2025 18:19:28.159] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5884 ms
+[04Sep2025 18:19:28.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.136s)! For help, type "help"
+[04Sep2025 18:19:28.216] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[04Sep2025 18:20:07.612] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[04Sep2025 18:20:07.815] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:49373] logged in with entity id 439 at (1859.9770828246315, -51.5, -787.6675289628622)
+[04Sep2025 18:20:07.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
+[04Sep2025 18:20:12.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4718ms or 94 ticks behind
+[04Sep2025 18:26:40.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:39055] logged in with entity id 2144 at (647.3000000119209, 70.0, -771.3000000119209)
+[04Sep2025 18:26:40.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
+[04Sep2025 18:27:01.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported caver to facuuundooo
+[04Sep2025 18:27:02.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [Eye Spy]
+[04Sep2025 18:28:13.000] [Worker-Main-3/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[04Sep2025 18:28:19.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [The End?]
+[04Sep2025 18:28:19.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [The End?]
+[04Sep2025 18:28:21.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8860ms or 177 ticks behind
+[04Sep2025 18:28:21.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver moved too quickly! -1763.5646299788452,100.39260454995134,787.0768517993683
+[04Sep2025 18:28:23.470] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[04Sep2025 18:28:23.474] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[04Sep2025 18:29:36.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver moved too quickly! -0.1285756871658279,-11.369640914832118,0.16582076871151408
+[04Sep2025 18:29:37.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was doomed to fall by Ender Dragon
+[04Sep2025 18:29:37.405] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[04Sep2025 18:29:59.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported caver to facuuundooo
+[04Sep2025 18:32:47.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Free the End]
+[04Sep2025 18:34:29.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Remote Getaway]
+[04Sep2025 18:35:05.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Ender Distancing]
+[04Sep2025 18:35:06.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Capsid-19]
