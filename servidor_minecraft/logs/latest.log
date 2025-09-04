@@ -15,3 +15,59 @@
 [04Sep2025 00:26:37.494] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=562, y=-26, z=-242}
 [04Sep2025 00:26:37.494] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=562, y=-12, z=-242}
 [04Sep2025 00:26:37.494] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-13, z=-242}
+[04Sep2025 00:31:33.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Disconnected
+[04Sep2025 00:31:33.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
+[04Sep2025 00:35:53.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:48715] logged in with entity id 42585 at (724.6999999880791, 75.0, -704.3482061226221)
+[04Sep2025 00:35:53.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
+[04Sep2025 00:39:06.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=743, y=97, z=-696} BlockPos{x=743, y=96, z=-696}
+[04Sep2025 00:39:10.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=748, y=92, z=-696} BlockPos{x=748, y=93, z=-696}
+[04Sep2025 00:39:10.398] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=748, y=92, z=-696} BlockPos{x=748, y=93, z=-696}
+[04Sep2025 00:42:36.415] [Worker-Main-1/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[04Sep2025 00:42:38.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5671ms or 113 ticks behind
+[04Sep2025 00:42:38.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver moved too quickly! 6.965859862587081,4.384820761176158,5.795241158899216
+[04Sep2025 00:44:45.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Radioactive]
+[04Sep2025 00:45:20.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [Straddle My Ol' Saddle]
+[04Sep2025 00:45:32.194] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/47331, l='ServerLevel[world]', x=295.73, y=34.00, z=-206.62] died: Pipeline Sentry suffocated in a wall
+[04Sep2025 00:46:01.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Toxic Personality]
+[04Sep2025 00:46:52.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [A Terrible Fortress]
+[04Sep2025 00:48:34.553] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49197, l='ServerLevel[world]', x=239.46, y=60.00, z=44.31] died: 1$s has perished from holy damage
+[04Sep2025 00:48:40.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/48103, l='ServerLevel[world]', x=268.72, y=-20.00, z=27.76] died: Toxic Slime was killed
+[04Sep2025 00:48:59.802] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49422, l='ServerLevel[world]', x=310.94, y=60.00, z=41.78] died: 1$s has perished from holy damage
+[04Sep2025 00:50:24.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was doomed to fall by Straddler
+[04Sep2025 00:50:24.223] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[04Sep2025 00:50:36.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49178, l='ServerLevel[world]', x=389.05, y=-20.00, z=33.88] died: Toxic Slime was killed
+[04Sep2025 00:51:09.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49436, l='ServerLevel[world]', x=299.26, y=-20.00, z=60.97] died: Toxic Slime was killed
+[04Sep2025 00:51:09.789] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49437, l='ServerLevel[world]', x=401.60, y=-20.00, z=47.47] died: Toxic Slime was killed
+[04Sep2025 00:51:14.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has reached the goal [Chain Death]
+[04Sep2025 00:51:14.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver discovered the floor was lava
+[04Sep2025 00:51:14.855] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[04Sep2025 00:51:18.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49505, l='ServerLevel[world]', x=336.26, y=-20.00, z=56.74] died: Toxic Slime was killed
+[04Sep2025 00:51:23.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49526, l='ServerLevel[world]', x=395.33, y=-20.00, z=27.51] died: Toxic Slime was killed
+[04Sep2025 00:51:36.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49584, l='ServerLevel[world]', x=339.74, y=-20.00, z=49.26] died: Toxic Slime was killed
+[04Sep2025 00:51:38.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49611, l='ServerLevel[world]', x=333.25, y=-20.00, z=54.49] died: Toxic Slime was killed
+[04Sep2025 00:51:39.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49614, l='ServerLevel[world]', x=338.26, y=-20.00, z=52.26] died: Toxic Slime was killed
+[04Sep2025 00:52:13.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49869, l='ServerLevel[world]', x=338.80, y=-20.00, z=88.74] died: Toxic Slime was killed
+[04Sep2025 00:52:42.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/50052, l='ServerLevel[world]', x=300.26, y=-20.00, z=79.08] died: Toxic Slime was killed
+[04Sep2025 00:52:57.789] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/50498, l='ServerLevel[world]', x=383.81, y=-20.00, z=75.51] died: Toxic Slime was killed
+[04Sep2025 00:53:16.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/50635, l='ServerLevel[world]', x=321.79, y=-20.00, z=74.74] died: Toxic Slime was killed
+[04Sep2025 00:53:21.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/50679, l='ServerLevel[world]', x=411.13, y=-20.00, z=116.14] died: Toxic Slime was killed
+[04Sep2025 00:53:25.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [The Most Useful Key]
+[04Sep2025 00:53:30.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/50820, l='ServerLevel[world]', x=115.63, y=-20.00, z=8.85] died: Toxic Slime was killed
+[04Sep2025 00:53:32.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has reached the goal [A Fast Comeback]
+[04Sep2025 00:53:34.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2701ms or 54 ticks behind
+[04Sep2025 00:53:44.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=313, y=62, z=57} BlockPos{x=314, y=62, z=57}
+[04Sep2025 00:54:03.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo lost connection: Disconnected
+[04Sep2025 00:54:03.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo left the game
+[04Sep2025 00:54:12.016] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:59557] logged in with entity id 52306 at (312.0717527465634, 61.0, 85.96022306013748)
+[04Sep2025 00:54:12.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
+[04Sep2025 00:54:34.759] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo lost connection: Disconnected
+[04Sep2025 00:54:34.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo left the game
+[04Sep2025 00:55:01.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver has made the advancement [A Terrible Fortress]
+[04Sep2025 00:56:44.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:41263] logged in with entity id 53045 at (289.7595040757876, 60.0, 44.23234036402416)
+[04Sep2025 00:56:44.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
+[04Sep2025 00:57:55.905] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53458, l='ServerLevel[world]', x=144.70, y=33.00, z=134.19] died: 1$s has perished from holy damage
+[04Sep2025 00:58:15.405] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53688, l='ServerLevel[world]', x=143.22, y=32.00, z=126.48] died: 1$s has perished from holy damage
+[04Sep2025 00:58:38.404] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53820, l='ServerLevel[world]', x=138.29, y=32.89, z=125.97] died: 1$s has perished from holy damage
+[04Sep2025 00:58:39.605] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53821, l='ServerLevel[world]', x=139.19, y=33.00, z=124.59] died: 1$s has perished from holy damage
+[04Sep2025 00:58:41.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53549, l='ServerLevel[world]', x=139.20, y=32.86, z=123.23] died: 1$s has perished from holy damage
+[04Sep2025 00:58:42.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53459, l='ServerLevel[world]', x=140.20, y=33.26, z=122.74] died: 1$s has perished from holy damage

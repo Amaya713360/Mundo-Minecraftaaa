@@ -4366,9 +4366,57 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/cobbled_deepslate_mine": {
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
-      "has_mine": "2025-09-04 00:19:49 +0000"
+      "has_quartz": "2025-09-03 23:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-09-03 23:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-09-03 23:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-09-03 23:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-09-03 23:28:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-09-03 23:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-09-03 23:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-09-03 23:28:03 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/decorations/item_quartz": {
+    "criteria": {
+      "has_quartz": "2025-09-03 23:28:03 +0000"
     },
     "done": true
   },
@@ -4378,15 +4426,63 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/gold_mine": {
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-09-03 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-03 23:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-03 23:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-03 23:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-03 23:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-03 23:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-03 23:52:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-09-03 23:53:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/cobbled_deepslate_mine": {
     "criteria": {
       "has_mine": "2025-09-04 00:19:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_glazed_terracotta": {
+  "securitycraft:recipes/building_blocks/gold_mine": {
     "criteria": {
-      "has_white_terracotta": "2025-09-03 23:36:33 +0000"
+      "has_mine": "2025-09-04 00:19:49 +0000"
     },
     "done": true
   },
@@ -4420,27 +4516,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_granite": {
-    "criteria": {
-      "has_quartz": "2025-09-03 23:28:03 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/deepslate_mine": {
     "criteria": {
       "has_mine": "2025-09-04 00:19:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-09-03 23:28:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-09-03 23:28:03 +0000"
     },
     "done": true
   },
@@ -4462,12 +4540,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-09-03 23:28:03 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/cobblestone_mine": {
     "criteria": {
       "has_mine": "2025-09-04 00:19:49 +0000"
@@ -4480,12 +4552,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-09-03 23:28:03 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/deepslate_iron_mine": {
     "criteria": {
       "has_mine": "2025-09-04 00:19:49 +0000"
@@ -4495,12 +4561,6 @@
   "securitycraft:recipes/tools/remote_access_mine": {
     "criteria": {
       "has_mine": "2025-09-04 00:19:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-09-03 23:52:49 +0000"
     },
     "done": true
   },
@@ -4528,21 +4588,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-09-03 23:53:12 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/gravel_mine": {
     "criteria": {
       "has_mine": "2025-09-04 00:19:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2025-09-03 23:52:49 +0000"
     },
     "done": true
   },
@@ -4558,27 +4606,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2025-09-03 23:52:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-09-03 23:52:49 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/smoker_mine": {
     "criteria": {
       "has_mine": "2025-09-04 00:19:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_observer": {
-    "criteria": {
-      "has_quartz": "2025-09-03 23:28:03 +0000"
     },
     "done": true
   },
@@ -4588,27 +4618,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-09-03 23:52:49 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/tools/wire_cutters": {
     "criteria": {
       "has_mine": "2025-09-04 00:19:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-09-03 23:28:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-09-03 23:28:03 +0000"
     },
     "done": true
   },
@@ -4648,12 +4660,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-09-03 23:52:49 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/nether_gold_mine": {
     "criteria": {
       "has_mine": "2025-09-04 00:19:49 +0000"
@@ -4678,15 +4684,69 @@
     },
     "done": true
   },
-  "casinocraft:recipes/decorations/item_quartz": {
-    "criteria": {
-      "has_quartz": "2025-09-03 23:28:03 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/deepslate_emerald_mine": {
     "criteria": {
       "has_mine": "2025-09-04 00:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-09-04 00:46:38 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-09-04 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-09-04 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-09-04 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-09-04 00:45:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-09-04 00:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-09-04 00:55:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-09-04 00:51:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-09-04 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-09-04 00:53:25 +0000"
     },
     "done": true
   },
