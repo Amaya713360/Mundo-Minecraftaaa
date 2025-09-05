@@ -189,3 +189,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [05Sep2025 19:02:30.193] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:42305] logged in with entity id 443 at (729.5684094650394, 88.0, -687.0214100281692)
 [05Sep2025 19:02:30.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
 [05Sep2025 19:02:32.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[05Sep2025 19:22:22.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=867, y=70, z=-406} BlockPos{x=868, y=69, z=-406}
