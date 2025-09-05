@@ -209,3 +209,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [05Sep2025 20:06:47.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=709, y=66, z=-711} BlockPos{x=709, y=67, z=-711}
 [05Sep2025 20:06:47.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=709, y=66, z=-711} BlockPos{x=709, y=67, z=-711}
 [05Sep2025 20:15:19.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caver> e
+[05Sep2025 20:44:56.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo lost connection: Disconnected
+[05Sep2025 20:44:56.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo left the game
+[05Sep2025 20:44:56.270] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Sep2025 20:49:46.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Disconnected
+[05Sep2025 20:49:46.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
