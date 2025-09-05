@@ -194,3 +194,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [05Sep2025 19:48:12.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
 [05Sep2025 19:49:57.455] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,sophisticatedbackpacks:channel,citadel:main_channel,securitycraft:securitycraft,framework:play,tacz:handshake,curios:main,casinocraft:main,framework:handshake,framedblocks:main,forge:tier_sorting,alexsmobs:main_channel,tombstone:tombstone_channel,cosmeticarmorreworked:main,sophisticatedcore:channel,ironchest:network,elevatorid:main_channel,tacz:network,refurbished_furniture:play] rejected vanilla connections
 [05Sep2025 19:49:57.456] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.30.234.235:42571] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[05Sep2025 19:54:19.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[05Sep2025 19:54:21.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
+[05Sep2025 19:54:21.538] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[05Sep2025 19:54:21.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo moved too quickly! -1.24974252598156,-4.301913481273957,-9.026090334845776
+[05Sep2025 19:55:28.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[05Sep2025 19:55:28.935] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[05Sep2025 19:55:30.993] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pig['Nicolás π'/19525, l='ServerLevel[world]', x=720.74, y=88.00, z=-673.29] died: Nicolás π suffocated in a wall
+[05Sep2025 19:57:14.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was shot by Skeleton
+[05Sep2025 19:57:14.064] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
