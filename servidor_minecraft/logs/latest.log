@@ -203,3 +203,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [05Sep2025 19:55:30.993] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pig['Nicolás π'/19525, l='ServerLevel[world]', x=720.74, y=88.00, z=-673.29] died: Nicolás π suffocated in a wall
 [05Sep2025 19:57:14.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was shot by Skeleton
 [05Sep2025 19:57:14.064] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[05Sep2025 20:05:55.828] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[05Sep2025 20:05:55.834] [Netty Epoll Server IO #0/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@22be7157[id=<null>,name=bub1ii,properties={},legacy=false] (/127.30.234.235:39109): Unexpected custom data from client
+[05Sep2025 20:05:55.874] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@22be7157[id=<null>,name=bub1ii,properties={},legacy=false] (/127.30.234.235:39109) lost connection: Unexpected custom data from client
+[05Sep2025 20:06:47.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=709, y=66, z=-711} BlockPos{x=709, y=67, z=-711}
+[05Sep2025 20:06:47.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=709, y=66, z=-711} BlockPos{x=709, y=67, z=-711}
