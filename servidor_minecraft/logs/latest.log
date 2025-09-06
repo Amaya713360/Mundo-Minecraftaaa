@@ -764,3 +764,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [06Sep2025 02:07:09.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was slain by facuuundooo
 [06Sep2025 02:07:09.064] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
 [06Sep2025 02:22:52.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver moved too quickly! 8.017364962605257,3.0339871374357728,-6.036822868514264
+[06Sep2025 02:48:45.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Timed out
+[06Sep2025 02:48:45.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
+[06Sep2025 03:00:36.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=316, y=69, z=-857} BlockPos{x=316, y=67, z=-857}
+[06Sep2025 03:00:36.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=316, y=69, z=-857} BlockPos{x=316, y=67, z=-857}
+[06Sep2025 03:00:44.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=68, z=-864} BlockPos{x=309, y=66, z=-864}
+[06Sep2025 03:00:44.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=68, z=-864} BlockPos{x=309, y=66, z=-864}
