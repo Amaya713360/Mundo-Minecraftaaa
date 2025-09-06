@@ -208,3 +208,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [06Sep2025 01:07:23.642] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
 [06Sep2025 01:11:30.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was slain by facuuundooo
 [06Sep2025 01:11:31.282] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[06Sep2025 01:14:57.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[06Sep2025 01:14:58.300] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[06Sep2025 01:15:23.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver moved too quickly! -7.246941700574553,-1.2662811532348428,6.985391168959268
+[06Sep2025 01:15:27.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver was kicked for floating too long!
+[06Sep2025 01:15:27.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Disconnected
+[06Sep2025 01:15:27.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
+[06Sep2025 01:15:27.844] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Sep2025 01:15:47.205] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:59915] logged in with entity id 9675 at (790.1535488260608, 76.6466050394495, -828.9865490659555)
+[06Sep2025 01:15:47.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
