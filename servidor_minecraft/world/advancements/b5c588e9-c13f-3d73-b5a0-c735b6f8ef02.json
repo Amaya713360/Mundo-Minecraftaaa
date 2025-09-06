@@ -8506,6 +8506,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_polished_andesite_stairs_from_reinforced_andesite_stonecutting": {
+    "criteria": {
+      "has_reinforced_andesite": "2025-09-06 03:56:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
     "criteria": {
       "has_black_dye": "2025-09-06 03:14:44 +0000"
@@ -8620,6 +8626,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_stairs_from_reinforced_andesite_stonecutting": {
+    "criteria": {
+      "has_reinforced_andesite": "2025-09-06 03:56:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_slab_from_reinforced_andesite_stonecutting": {
+    "criteria": {
+      "has_reinforced_andesite": "2025-09-06 03:56:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_toaster": {
     "criteria": {
       "has_black_dye": "2025-09-06 03:14:44 +0000"
@@ -8635,6 +8653,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2025-09-06 03:14:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_andesite_slab_from_reinforced_andesite_stonecutting": {
+    "criteria": {
+      "has_reinforced_andesite": "2025-09-06 03:56:35 +0000"
     },
     "done": true
   },
@@ -8728,6 +8752,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_polished_andesite_from_reinforced_andesite_stonecutting": {
+    "criteria": {
+      "has_reinforced_andesite": "2025-09-06 03:56:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_stone_button": {
     "criteria": {
       "has_block": "2025-09-06 02:41:33 +0000"
@@ -8785,6 +8815,12 @@
   "refurbished_furniture:recipes/decorations/black_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2025-09-06 03:14:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_slab": {
+    "criteria": {
+      "has_block": "2025-09-06 03:56:35 +0000"
     },
     "done": true
   },
@@ -8878,6 +8914,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/reinforced_andesite_wall": {
+    "criteria": {
+      "has_block": "2025-09-06 03:56:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/birch_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-09-06 03:14:44 +0000"
@@ -8935,6 +8977,12 @@
   "refurbished_furniture:recipes/decorations/dark_fridge": {
     "criteria": {
       "has_dye": "2025-09-06 03:14:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_andesite": {
+    "criteria": {
+      "has_block": "2025-09-06 03:56:35 +0000"
     },
     "done": true
   },
@@ -9094,6 +9142,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_wall_from_reinforced_andesite_stonecutting": {
+    "criteria": {
+      "has_reinforced_andesite": "2025-09-06 03:56:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_candle": {
     "criteria": {
       "has_black_dye": "2025-09-06 03:14:44 +0000"
@@ -9109,6 +9163,12 @@
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2025-09-06 03:14:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_stairs": {
+    "criteria": {
+      "has_block": "2025-09-06 03:56:35 +0000"
     },
     "done": true
   },
