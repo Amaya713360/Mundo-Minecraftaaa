@@ -4514,7 +4514,8 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:volcanic_deltas": "2025-08-30 15:08:07 +0000",
-      "incendium:toxic_heap": "2025-09-04 00:44:45 +0000"
+      "incendium:toxic_heap": "2025-09-04 00:44:45 +0000",
+      "incendium:withered_forest": "2025-09-06 01:31:38 +0000"
     },
     "done": false
   },
@@ -8507,6 +8508,42 @@
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2025-09-06 01:07:36 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-09-06 01:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-09-06 01:28:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/slime_ball_from_slime_block": {
+    "criteria": {
+      "has_slime_block": "2025-09-06 01:28:17 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2025-09-06 01:29:53 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/kill_sentry": {
+    "criteria": {
+      "requirement": "2025-09-06 01:30:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2025-09-06 01:30:14 +0000"
     },
     "done": true
   },

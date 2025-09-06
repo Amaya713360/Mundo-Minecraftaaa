@@ -217,3 +217,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [06Sep2025 01:15:27.844] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [06Sep2025 01:15:47.205] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:59915] logged in with entity id 9675 at (790.1535488260608, 76.6466050394495, -828.9865490659555)
 [06Sep2025 01:15:47.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
+[06Sep2025 01:25:10.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver moved too quickly! 2.889220980795699,1.106205762085466,-9.60635330809555
+[06Sep2025 01:27:22.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2730ms or 54 ticks behind
+[06Sep2025 01:29:30.584] [Worker-Main-11/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[06Sep2025 01:29:53.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Pipe Dream]
+[06Sep2025 01:30:07.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has reached the goal [Ceci n'est pas un blaze]
+[06Sep2025 01:30:07.710] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/14479, l='ServerLevel[world]', x=426.70, y=68.47, z=35.31] died: 1$s has perished from holy damage
+[06Sep2025 01:30:14.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [UNLIMITED POWER!!!]
+[06Sep2025 01:30:20.721] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/14503, l='ServerLevel[world]', x=420.51, y=69.19, z=43.06] died: 1$s has perished from holy damage
+[06Sep2025 01:31:01.572] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/14506, l='ServerLevel[world]', x=422.70, y=68.68, z=19.02] died: 1$s has perished from holy damage
+[06Sep2025 01:31:38.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo has made the advancement [Ancient Battlefield]
+[06Sep2025 01:31:56.271] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/15183, l='ServerLevel[world]', x=529.06, y=72.00, z=0.53] died: 1$s has perished from holy damage
+[06Sep2025 01:32:08.338] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14742, l='ServerLevel[world]', x=466.72, y=-20.00, z=54.62] died: Toxic Slime was killed
+[06Sep2025 01:32:35.337] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/15021, l='ServerLevel[world]', x=517.74, y=-20.00, z=14.26] died: Toxic Slime was killed
