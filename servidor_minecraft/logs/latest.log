@@ -203,3 +203,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [06Sep2025 00:44:24.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo left the game
 [06Sep2025 01:01:59.110] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:37397] logged in with entity id 5984 at (797.2945555953003, 73.0, -764.0923745297002)
 [06Sep2025 01:01:59.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
+[06Sep2025 01:07:21.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[06Sep2025 01:07:23.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2341ms or 46 ticks behind
+[06Sep2025 01:07:23.642] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[06Sep2025 01:11:30.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was slain by facuuundooo
+[06Sep2025 01:11:31.282] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
