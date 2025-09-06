@@ -1213,3 +1213,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [06Sep2025 04:31:46.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=703, y=84, z=-694} BlockPos{x=703, y=84, z=-692}
 [06Sep2025 04:35:37.802] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:46475] logged in with entity id 76100 at (830.361663100605, 93.0, -907.0051315591345)
 [06Sep2025 04:35:37.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
+[06Sep2025 04:50:17.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo moved wrongly!
+[06Sep2025 04:50:49.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=817, y=88, z=-914} BlockPos{x=817, y=89, z=-915}
+[06Sep2025 04:50:49.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=817, y=88, z=-914} BlockPos{x=817, y=89, z=-915}
+[06Sep2025 04:50:49.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=817, y=88, z=-914} BlockPos{x=817, y=89, z=-915}
+[06Sep2025 04:50:49.685] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=817, y=88, z=-914} BlockPos{x=817, y=89, z=-915}
+[06Sep2025 05:05:10.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo lost connection: Disconnected
+[06Sep2025 05:05:10.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo left the game
+[06Sep2025 05:06:37.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:36499] logged in with entity id 87588 at (711.1541432839315, 82.0, -691.5323486227213)
+[06Sep2025 05:06:37.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
