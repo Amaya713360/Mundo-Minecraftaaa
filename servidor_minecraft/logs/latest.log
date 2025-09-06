@@ -1222,3 +1222,14 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [06Sep2025 05:05:10.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo left the game
 [06Sep2025 05:06:37.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:36499] logged in with entity id 87588 at (711.1541432839315, 82.0, -691.5323486227213)
 [06Sep2025 05:06:37.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
+[06Sep2025 05:32:56.199] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=811, y=76, z=-939} BlockPos{x=812, y=76, z=-939}
+[06Sep2025 05:32:56.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=811, y=76, z=-939} BlockPos{x=812, y=76, z=-939}
+[06Sep2025 05:32:56.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=811, y=76, z=-939} BlockPos{x=812, y=76, z=-939}
+[06Sep2025 05:32:56.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=811, y=76, z=-939} BlockPos{x=812, y=76, z=-939}
+[06Sep2025 05:32:56.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=811, y=76, z=-939} BlockPos{x=812, y=76, z=-939}
+[06Sep2025 05:32:56.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=811, y=76, z=-939} BlockPos{x=812, y=76, z=-939}
+[06Sep2025 05:32:56.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=811, y=76, z=-939} BlockPos{x=812, y=76, z=-939}
+[06Sep2025 05:32:59.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=808, y=76, z=-944} BlockPos{x=807, y=76, z=-942}
+[06Sep2025 05:33:01.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=808, y=74, z=-948} BlockPos{x=808, y=73, z=-947}
+[06Sep2025 05:56:02.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[06Sep2025 05:56:02.912] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved

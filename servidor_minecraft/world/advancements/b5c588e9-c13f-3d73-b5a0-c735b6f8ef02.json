@@ -9214,6 +9214,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_trapdoor": {
+    "criteria": {
+      "hasFramedSlab": "2025-09-06 05:36:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
     "criteria": {
       "has_wooden_kitchen_cabinetry": "2025-09-06 05:22:20 +0000"
@@ -9226,6 +9232,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_floor_board": {
+    "criteria": {
+      "hasFramedSlab": "2025-09-06 05:36:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_kitchen_drawer": {
     "criteria": {
       "has_wooden_kitchen_drawers": "2025-09-06 05:22:24 +0000"
@@ -9235,6 +9247,12 @@
   "refurbished_furniture:recipes/misc/constructing/gray_kitchen_cabinetry": {
     "criteria": {
       "has_wooden_kitchen_cabinetry": "2025-09-06 05:22:20 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_corner": {
+    "criteria": {
+      "hasFramedSlab": "2025-09-06 05:36:48 +0000"
     },
     "done": true
   },
@@ -9286,9 +9304,21 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_sloped_stairs": {
+    "criteria": {
+      "hasFramedSlab": "2025-09-06 05:36:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_storage_cabinet": {
     "criteria": {
       "has_wooden_kitchen_storage_cabinets": "2025-09-06 05:22:32 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_edge": {
+    "criteria": {
+      "hasFramedSlab": "2025-09-06 05:36:48 +0000"
     },
     "done": true
   },
@@ -9346,15 +9376,33 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_slab_rotate_to_framed_panel": {
+    "criteria": {
+      "hasFramedSlab": "2025-09-06 05:36:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_cabinetry": {
     "criteria": {
       "has_wooden_kitchen_cabinetry": "2025-09-06 05:22:20 +0000"
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_centered_slab": {
+    "criteria": {
+      "hasFramedSlab": "2025-09-06 05:36:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_kitchen_storage_cabinet": {
     "criteria": {
       "has_wooden_kitchen_storage_cabinets": "2025-09-06 05:22:32 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sliced_stairs_slab": {
+    "criteria": {
+      "hasFramedSlab": "2025-09-06 05:36:48 +0000"
     },
     "done": true
   },
