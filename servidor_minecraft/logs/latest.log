@@ -1,94 +1,94 @@
-[05Sep2025 19:00:46.561] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[05Sep2025 19:00:46.566] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[05Sep2025 19:00:47.761] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[05Sep2025 19:00:47.771] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[05Sep2025 19:00:47.772] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/Mundo-Minecraftaaa/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23135!/
-[05Sep2025 19:00:47.779] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/Mundo-Minecraftaaa/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
-[05Sep2025 19:00:47.781] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[05Sep2025 19:00:47.834] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Mundo-Minecraftaaa/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[05Sep2025 19:00:47.845] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[05Sep2025 19:00:48.154] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo-Minecraftaaa/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[05Sep2025 19:00:48.156] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo-Minecraftaaa/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Sep2025 19:00:48.157] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo-Minecraftaaa/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Sep2025 19:00:48.158] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo-Minecraftaaa/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Sep2025 19:00:48.483] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[05Sep2025 19:00:48.484] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
-[05Sep2025 19:00:49.074] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[05Sep2025 19:00:49.083] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[05Sep2025 19:00:49.762] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[05Sep2025 19:00:50.852] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[05Sep2025 19:00:50.947] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
-[05Sep2025 19:00:50.948] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
-[05Sep2025 19:00:50.952] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[05Sep2025 19:00:52.369] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[05Sep2025 19:00:58.170] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zep000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[05Sep2025 19:00:59.723] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[05Sep2025 19:00:59.727] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[05Sep2025 19:00:59.735] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[05Sep2025 19:00:59.736] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[05Sep2025 19:00:59.737] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[05Sep2025 19:00:59.741] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[05Sep2025 19:00:59.742] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[05Sep2025 19:00:59.746] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[05Sep2025 19:00:59.944] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[05Sep2025 19:01:00.494] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[05Sep2025 19:01:00.494] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[05Sep2025 19:01:00.514] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[05Sep2025 19:01:00.855] [modloading-worker-0/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
-[05Sep2025 19:01:00.883] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 1 plugins
-[05Sep2025 19:01:04.146] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:lush_zombie] was not realized!
-[05Sep2025 19:01:04.146] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:savanna_zombie] was not realized!
-[05Sep2025 19:01:04.146] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:badlands_zombie] was not realized!
-[05Sep2025 19:01:04.146] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:deep_dark_zombie] was not realized!
-[05Sep2025 19:01:04.146] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:pale_garden_zombie] was not realized!
-[05Sep2025 19:01:04.146] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:cave_zombie] was not realized!
-[05Sep2025 19:01:04.146] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:desert_zombie] was not realized!
-[05Sep2025 19:01:04.147] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:dripstone_zombie] was not realized!
-[05Sep2025 19:01:04.147] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:jungle_zombie] was not realized!
-[05Sep2025 19:01:04.147] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:frozen_zombie] was not realized!
-[05Sep2025 19:01:04.147] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:bamboo_zombie] was not realized!
-[05Sep2025 19:01:04.147] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:swamp_zombie] was not realized!
-[05Sep2025 19:01:04.147] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:cherry_zombie] was not realized!
-[05Sep2025 19:01:04.147] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:mangrove_zombie] was not realized!
-[05Sep2025 19:01:04.147] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:mushroom_zombie] was not realized!
-[05Sep2025 19:01:04.790] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[05Sep2025 19:01:04.865] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 136 crops
-[05Sep2025 19:01:04.868] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 6 crop tiers
-[05Sep2025 19:01:04.869] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 2 crop types
-[05Sep2025 19:01:04.869] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 55 augments
-[05Sep2025 19:01:04.869] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 20 mob soul types
-[05Sep2025 19:01:05.176] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
-[05Sep2025 19:01:05.587] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[05Sep2025 19:01:05.587] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[05Sep2025 19:01:05.588] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[05Sep2025 19:01:05.588] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[05Sep2025 19:01:05.588] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[05Sep2025 19:01:05.588] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[05Sep2025 19:01:05.588] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[05Sep2025 19:01:05.588] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
-[05Sep2025 19:01:05.588] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
-[05Sep2025 19:01:05.599] [main/INFO] [journeymap/]: Initializing Packet Registries
-[05Sep2025 19:01:05.842] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[05Sep2025 19:01:06.316] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: AHEAD Current: 1.20.1-1.0.18 Target: null
-[05Sep2025 19:01:06.317] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
-[05Sep2025 19:01:06.462] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
-[05Sep2025 19:01:06.463] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[05Sep2025 19:01:07.115] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[05Sep2025 19:01:07.116] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[05Sep2025 19:01:07.569] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[05Sep2025 19:01:07.569] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[05Sep2025 19:01:07.581] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 9.0.8 Target: 9.0.9
-[05Sep2025 19:01:07.582] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[05Sep2025 19:01:08.020] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[05Sep2025 19:01:09.223] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05Sep2025 19:01:11.724] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Mundo-Minecraftaaa/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/assets/.mcassetsroot' uses unexpected schema
-[05Sep2025 19:01:11.724] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Mundo-Minecraftaaa/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/data/.mcassetsroot' uses unexpected schema
-[05Sep2025 19:01:22.145] [main/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/Mundo-Minecraftaaa/servidor_minecraft/tacz
-[05Sep2025 19:01:22.147] [main/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
-[05Sep2025 19:01:22.148] [main/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
-[05Sep2025 19:01:24.525] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[05Sep2025 19:01:24.718] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-9.0.8.jar
-[05Sep2025 19:01:25.481] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:ati_structures:chests/archer_chest
+[06Sep2025 00:32:52.355] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[06Sep2025 00:32:52.361] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[06Sep2025 00:32:53.557] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[06Sep2025 00:32:53.570] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[06Sep2025 00:32:53.571] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/Mundo-Minecraftaaa/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23135!/
+[06Sep2025 00:32:53.580] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/Mundo-Minecraftaaa/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
+[06Sep2025 00:32:53.582] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[06Sep2025 00:32:53.649] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Mundo-Minecraftaaa/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[06Sep2025 00:32:53.664] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[06Sep2025 00:32:53.982] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo-Minecraftaaa/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[06Sep2025 00:32:53.985] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo-Minecraftaaa/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Sep2025 00:32:53.986] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo-Minecraftaaa/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Sep2025 00:32:53.987] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo-Minecraftaaa/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Sep2025 00:32:54.410] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[06Sep2025 00:32:54.419] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[06Sep2025 00:32:55.060] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[06Sep2025 00:32:55.071] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[06Sep2025 00:32:55.751] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[06Sep2025 00:32:56.758] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[06Sep2025 00:32:56.886] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[06Sep2025 00:32:56.888] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[06Sep2025 00:32:56.891] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[06Sep2025 00:32:58.414] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[06Sep2025 00:33:04.340] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zep000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[06Sep2025 00:33:06.108] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[06Sep2025 00:33:06.109] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[06Sep2025 00:33:06.114] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[06Sep2025 00:33:06.115] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[06Sep2025 00:33:06.119] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[06Sep2025 00:33:06.120] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[06Sep2025 00:33:06.121] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[06Sep2025 00:33:06.125] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[06Sep2025 00:33:06.357] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[06Sep2025 00:33:06.939] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[06Sep2025 00:33:06.939] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[06Sep2025 00:33:06.943] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[06Sep2025 00:33:07.204] [modloading-worker-0/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
+[06Sep2025 00:33:07.230] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 1 plugins
+[06Sep2025 00:33:10.268] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:lush_zombie] was not realized!
+[06Sep2025 00:33:10.268] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:savanna_zombie] was not realized!
+[06Sep2025 00:33:10.268] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:badlands_zombie] was not realized!
+[06Sep2025 00:33:10.268] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:deep_dark_zombie] was not realized!
+[06Sep2025 00:33:10.268] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:pale_garden_zombie] was not realized!
+[06Sep2025 00:33:10.269] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:cave_zombie] was not realized!
+[06Sep2025 00:33:10.269] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:desert_zombie] was not realized!
+[06Sep2025 00:33:10.269] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:dripstone_zombie] was not realized!
+[06Sep2025 00:33:10.269] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:jungle_zombie] was not realized!
+[06Sep2025 00:33:10.269] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:frozen_zombie] was not realized!
+[06Sep2025 00:33:10.269] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:bamboo_zombie] was not realized!
+[06Sep2025 00:33:10.269] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:swamp_zombie] was not realized!
+[06Sep2025 00:33:10.269] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:cherry_zombie] was not realized!
+[06Sep2025 00:33:10.269] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:mangrove_zombie] was not realized!
+[06Sep2025 00:33:10.270] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / zombie_variants:mushroom_zombie] was not realized!
+[06Sep2025 00:33:10.855] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[06Sep2025 00:33:10.927] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 136 crops
+[06Sep2025 00:33:10.927] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 6 crop tiers
+[06Sep2025 00:33:10.927] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 2 crop types
+[06Sep2025 00:33:10.927] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 55 augments
+[06Sep2025 00:33:10.928] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 20 mob soul types
+[06Sep2025 00:33:11.202] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
+[06Sep2025 00:33:11.709] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[06Sep2025 00:33:11.710] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[06Sep2025 00:33:11.710] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[06Sep2025 00:33:11.710] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[06Sep2025 00:33:11.710] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[06Sep2025 00:33:11.710] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[06Sep2025 00:33:11.710] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[06Sep2025 00:33:11.710] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[06Sep2025 00:33:11.711] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
+[06Sep2025 00:33:11.711] [main/INFO] [journeymap/]: Initializing Packet Registries
+[06Sep2025 00:33:11.914] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[06Sep2025 00:33:12.053] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: AHEAD Current: 1.20.1-1.0.18 Target: null
+[06Sep2025 00:33:12.055] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
+[06Sep2025 00:33:12.197] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
+[06Sep2025 00:33:12.198] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[06Sep2025 00:33:12.354] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[06Sep2025 00:33:12.354] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[06Sep2025 00:33:12.924] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[06Sep2025 00:33:12.924] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[06Sep2025 00:33:12.937] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 9.0.8 Target: 9.0.9
+[06Sep2025 00:33:12.938] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[06Sep2025 00:33:13.102] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[06Sep2025 00:33:15.104] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06Sep2025 00:33:17.436] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Mundo-Minecraftaaa/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/assets/.mcassetsroot' uses unexpected schema
+[06Sep2025 00:33:17.437] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Mundo-Minecraftaaa/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/data/.mcassetsroot' uses unexpected schema
+[06Sep2025 00:33:28.731] [main/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/Mundo-Minecraftaaa/servidor_minecraft/tacz
+[06Sep2025 00:33:28.733] [main/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
+[06Sep2025 00:33:28.733] [main/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
+[06Sep2025 00:33:31.312] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[06Sep2025 00:33:31.392] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-9.0.8.jar
+[06Sep2025 00:33:32.009] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:ati_structures:chests/archer_chest
 com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
@@ -144,73 +144,58 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[05Sep2025 19:01:25.988] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[1]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[05Sep2025 19:01:25.989] [main/INFO] [Cucumber Library/]: Registered 0 recipes in 0 ms
-[05Sep2025 19:01:26.144] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
-[05Sep2025 19:01:26.349] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3463 advancements
-[05Sep2025 19:01:26.369] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[05Sep2025 19:01:26.376] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[05Sep2025 19:01:26.514] [main/INFO] [Dungeon Crawl/]: Loading data...
-[05Sep2025 19:01:26.912] [main/INFO] [Dungeon Crawl/]: Done.
-[05Sep2025 19:01:29.019] [main/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 3 ms
-[05Sep2025 19:01:29.021] [main/INFO] [Mystical Agriculture/]: Recipe ingredient caching done in 1 ms
-[05Sep2025 19:01:29.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[05Sep2025 19:01:29.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[05Sep2025 19:01:29.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[05Sep2025 19:01:29.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[05Sep2025 19:01:29.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[05Sep2025 19:01:29.447] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[05Sep2025 19:01:29.562] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05Sep2025 19:01:29.563] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[05Sep2025 19:01:29.564] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05Sep2025 19:01:29.564] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[05Sep2025 19:01:29.588] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[05Sep2025 19:01:29.589] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[05Sep2025 19:01:29.906] [Server thread/INFO] [Framework/]: Loading server configs...
-[05Sep2025 19:01:29.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[05Sep2025 19:01:34.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[05Sep2025 19:01:37.652] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Sep2025 19:01:37.710] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Sep2025 19:01:37.729] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Sep2025 19:01:38.156] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Sep2025 19:01:38.182] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Sep2025 19:01:38.216] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Sep2025 19:01:38.306] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Sep2025 19:01:38.323] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Sep2025 19:01:38.336] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Sep2025 19:01:38.778] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Sep2025 19:01:39.048] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Sep2025 19:01:39.549] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
-[05Sep2025 19:01:40.047] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
-[05Sep2025 19:01:40.255] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6209 ms
-[05Sep2025 19:01:40.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.677s)! For help, type "help"
-[05Sep2025 19:01:40.307] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[05Sep2025 19:02:30.003] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[05Sep2025 19:02:30.193] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:42305] logged in with entity id 443 at (729.5684094650394, 88.0, -687.0214100281692)
-[05Sep2025 19:02:30.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
-[05Sep2025 19:02:32.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
-[05Sep2025 19:22:22.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=867, y=70, z=-406} BlockPos{x=868, y=69, z=-406}
-[05Sep2025 19:48:12.741] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:43899] logged in with entity id 14886 at (827.0962534610215, 88.0, -915.6456667460128)
-[05Sep2025 19:48:12.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
-[05Sep2025 19:49:57.455] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,sophisticatedbackpacks:channel,citadel:main_channel,securitycraft:securitycraft,framework:play,tacz:handshake,curios:main,casinocraft:main,framework:handshake,framedblocks:main,forge:tier_sorting,alexsmobs:main_channel,tombstone:tombstone_channel,cosmeticarmorreworked:main,sophisticatedcore:channel,ironchest:network,elevatorid:main_channel,tacz:network,refurbished_furniture:play] rejected vanilla connections
-[05Sep2025 19:49:57.456] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.30.234.235:42571] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[05Sep2025 19:54:19.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
-[05Sep2025 19:54:21.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
-[05Sep2025 19:54:21.538] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
-[05Sep2025 19:54:21.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo moved too quickly! -1.24974252598156,-4.301913481273957,-9.026090334845776
-[05Sep2025 19:55:28.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
-[05Sep2025 19:55:28.935] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
-[05Sep2025 19:55:30.993] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pig['Nicolás π'/19525, l='ServerLevel[world]', x=720.74, y=88.00, z=-673.29] died: Nicolás π suffocated in a wall
-[05Sep2025 19:57:14.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was shot by Skeleton
-[05Sep2025 19:57:14.064] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
-[05Sep2025 20:05:55.828] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[05Sep2025 20:05:55.834] [Netty Epoll Server IO #0/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@22be7157[id=<null>,name=bub1ii,properties={},legacy=false] (/127.30.234.235:39109): Unexpected custom data from client
-[05Sep2025 20:05:55.874] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@22be7157[id=<null>,name=bub1ii,properties={},legacy=false] (/127.30.234.235:39109) lost connection: Unexpected custom data from client
-[05Sep2025 20:06:47.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=709, y=66, z=-711} BlockPos{x=709, y=67, z=-711}
-[05Sep2025 20:06:47.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=709, y=66, z=-711} BlockPos{x=709, y=67, z=-711}
-[05Sep2025 20:15:19.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caver> e
-[05Sep2025 20:44:56.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo lost connection: Disconnected
-[05Sep2025 20:44:56.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo left the game
-[05Sep2025 20:44:56.270] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[05Sep2025 20:49:46.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Disconnected
-[05Sep2025 20:49:46.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
+[06Sep2025 00:33:32.463] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[1]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[06Sep2025 00:33:32.464] [main/INFO] [Cucumber Library/]: Registered 0 recipes in 0 ms
+[06Sep2025 00:33:32.594] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
+[06Sep2025 00:33:32.730] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3463 advancements
+[06Sep2025 00:33:32.739] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[06Sep2025 00:33:32.744] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[06Sep2025 00:33:32.847] [main/INFO] [Dungeon Crawl/]: Loading data...
+[06Sep2025 00:33:33.220] [main/INFO] [Dungeon Crawl/]: Done.
+[06Sep2025 00:33:35.368] [main/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 3 ms
+[06Sep2025 00:33:35.370] [main/INFO] [Mystical Agriculture/]: Recipe ingredient caching done in 1 ms
+[06Sep2025 00:33:35.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[06Sep2025 00:33:35.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[06Sep2025 00:33:35.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[06Sep2025 00:33:35.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[06Sep2025 00:33:35.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[06Sep2025 00:33:35.731] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[06Sep2025 00:33:35.815] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06Sep2025 00:33:35.816] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[06Sep2025 00:33:35.816] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06Sep2025 00:33:35.816] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[06Sep2025 00:33:35.833] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[06Sep2025 00:33:35.835] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[06Sep2025 00:33:36.121] [Server thread/INFO] [Framework/]: Loading server configs...
+[06Sep2025 00:33:36.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[06Sep2025 00:33:39.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[06Sep2025 00:33:42.827] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Sep2025 00:33:42.846] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Sep2025 00:33:42.858] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Sep2025 00:33:42.867] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Sep2025 00:33:42.877] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Sep2025 00:33:42.879] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Sep2025 00:33:42.912] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Sep2025 00:33:43.406] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Sep2025 00:33:43.905] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Sep2025 00:33:44.405] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[06Sep2025 00:33:44.907] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[06Sep2025 00:33:45.073] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[06Sep2025 00:33:45.228] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5324 ms
+[06Sep2025 00:33:45.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.401s)! For help, type "help"
+[06Sep2025 00:33:45.295] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[06Sep2025 00:33:57.435] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[06Sep2025 00:33:57.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:46463] logged in with entity id 442 at (728.6496208389493, 88.0, -688.4566024017056)
+[06Sep2025 00:33:57.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
+[06Sep2025 00:33:59.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[06Sep2025 00:34:10.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo lost connection: Disconnected
+[06Sep2025 00:34:10.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo left the game
+[06Sep2025 00:35:40.921] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:60321] logged in with entity id 747 at (728.6496208389493, 88.0, -688.4566024017056)
+[06Sep2025 00:35:40.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
+[06Sep2025 00:35:53.196] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo lost connection: Disconnected
+[06Sep2025 00:35:53.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo left the game
+[06Sep2025 00:38:22.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:56249] logged in with entity id 1035 at (728.6496208389493, 88.0, -688.4566024017056)
+[06Sep2025 00:38:22.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
+[06Sep2025 00:41:43.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:45705] logged in with entity id 2183 at (827.6997335693261, 88.0, -911.9001021001093)
+[06Sep2025 00:41:43.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
+[06Sep2025 00:41:43.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo moved too quickly! 0.19701710734489097,2.6756413588901324,9.785343593385733
