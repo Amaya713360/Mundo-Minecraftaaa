@@ -231,3 +231,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [06Sep2025 01:32:08.338] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14742, l='ServerLevel[world]', x=466.72, y=-20.00, z=54.62] died: Toxic Slime was killed
 [06Sep2025 01:32:35.337] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/15021, l='ServerLevel[world]', x=517.74, y=-20.00, z=14.26] died: Toxic Slime was killed
 [06Sep2025 01:37:20.339] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/17716, l='ServerLevel[world]', x=215.26, y=-20.00, z=-5.95] died: Toxic Slime was killed
+[06Sep2025 01:45:15.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[06Sep2025 01:45:15.913] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[06Sep2025 01:48:05.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver was kicked for floating too long!
+[06Sep2025 01:48:05.993] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver lost connection: Flying is not enabled on this server
+[06Sep2025 01:48:05.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver left the game
+[06Sep2025 01:48:29.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:47295] logged in with entity id 27707 at (717.7606829375007, 71.42087432013027, -734.8806752730346)
+[06Sep2025 01:48:29.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
