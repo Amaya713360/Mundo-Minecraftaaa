@@ -230,3 +230,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [06Sep2025 01:31:56.271] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/15183, l='ServerLevel[world]', x=529.06, y=72.00, z=0.53] died: 1$s has perished from holy damage
 [06Sep2025 01:32:08.338] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14742, l='ServerLevel[world]', x=466.72, y=-20.00, z=54.62] died: Toxic Slime was killed
 [06Sep2025 01:32:35.337] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/15021, l='ServerLevel[world]', x=517.74, y=-20.00, z=14.26] died: Toxic Slime was killed
+[06Sep2025 01:37:20.339] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/17716, l='ServerLevel[world]', x=215.26, y=-20.00, z=-5.95] died: Toxic Slime was killed
