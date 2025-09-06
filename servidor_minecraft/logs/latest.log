@@ -199,3 +199,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [06Sep2025 00:41:43.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caver[/127.72.158.84:45705] logged in with entity id 2183 at (827.6997335693261, 88.0, -911.9001021001093)
 [06Sep2025 00:41:43.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
 [06Sep2025 00:41:43.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo moved too quickly! 0.19701710734489097,2.6756413588901324,9.785343593385733
+[06Sep2025 00:44:24.943] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuundooo lost connection: Disconnected
+[06Sep2025 00:44:24.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo left the game
+[06Sep2025 01:01:59.110] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuundooo[/127.150.20.157:37397] logged in with entity id 5984 at (797.2945555953003, 73.0, -764.0923745297002)
+[06Sep2025 01:01:59.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuundooo joined the game
