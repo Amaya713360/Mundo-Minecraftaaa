@@ -763,3 +763,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [06Sep2025 02:05:11.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver joined the game
 [06Sep2025 02:07:09.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caver was slain by facuuundooo
 [06Sep2025 02:07:09.064] [Server thread/INFO] [tombstone/]: The player caver has successfully been saved
+[06Sep2025 02:22:52.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caver moved too quickly! 8.017364962605257,3.0339871374357728,-6.036822868514264
